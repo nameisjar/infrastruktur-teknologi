@@ -2,14 +2,14 @@
     <header class="bg-white dark:bg-gray-900">
         <div class="container px-6 py-16 mx-auto">
             <div class="items-center lg:flex">
-                <div class="w-full lg:w-1/2">
+                <div class="mr-8 w-full lg:w-1/2">
                     {{-- accordion --}}
                     <div id="accordionFlushExample">
                         <div
-                            class="rounded-none border border-l-0 border-r-0 border-t-0 border-neutral-200 bg-white dark:border-neutral-600 dark:bg-neutral-800">
+                            class="mb-2 rounded-md border  border-blue-400 bg-transparent dark:border-neutral-600 dark:bg-neutral-800">
                             <h2 class="mb-0" id="flush-headingOne">
                                 <button
-                                    class="group relative flex w-full items-center rounded-none border-0 bg-white px-5 py-4 text-left text-base text-neutral-800 transition [overflow-anchor:none] hover:z-[2] focus:z-[3] focus:outline-none dark:bg-neutral-800 dark:text-white [&:not([data-te-collapse-collapsed])]:bg-white [&:not([data-te-collapse-collapsed])]:text-primary [&:not([data-te-collapse-collapsed])]:[box-shadow:inset_0_-1px_0_rgba(229,231,235)] dark:[&:not([data-te-collapse-collapsed])]:bg-neutral-800 dark:[&:not([data-te-collapse-collapsed])]:text-primary-400 dark:[&:not([data-te-collapse-collapsed])]:[box-shadow:inset_0_-1px_0_rgba(75,85,99)]"
+                                    class="group relative flex w-full items-center rounded-md border-0 bg-transparent px-5 py-4 text-left text-lg font-semibold text-neutral-800 transition [overflow-anchor:none] hover:z-[2] focus:z-[3] focus:outline-none dark:bg-neutral-800 dark:text-white [&:not([data-te-collapse-collapsed])]:bg-blue-50 [&:not([data-te-collapse-collapsed])]:text-blue-400 [&:not([data-te-collapse-collapsed])]:[box-shadow:inset_0_-1px_0_rgba(229,231,235)] dark:[&:not([data-te-collapse-collapsed])]:bg-neutral-800 dark:[&:not([data-te-collapse-collapsed])]:text-blue-400 dark:[&:not([data-te-collapse-collapsed])]:[box-shadow:inset_0_-1px_0_rgba(75,85,99)]"
                                     type="button" data-te-collapse-init data-te-target="#flush-collapseOne"
                                     aria-expanded="false" aria-controls="flush-collapseOne">
                                     Visi
@@ -26,7 +26,7 @@
                             <div id="flush-collapseOne" class="!visible border-0" data-te-collapse-item
                                 data-te-collapse-show aria-labelledby="flush-headingOne"
                                 data-te-parent="#accordionFlushExample">
-                                <div class="px-5 py-4">
+                                <div class="px-5 py-4 text-gray-500">
                                     Placeholder content for this accordion, which is intended to
                                     demonstrate the
                                     <code>.accordion-flush</code> class. This is the first item's
@@ -35,10 +35,10 @@
                             </div>
                         </div>
                         <div
-                            class="rounded-none border border-l-0 border-r-0 border-t-0 border-neutral-200 bg-white dark:border-neutral-600 dark:bg-neutral-800">
+                            class="mb-2 rounded-md border border-blue-400 bg-transparent dark:border-neutral-600 dark:bg-neutral-800">
                             <h2 class="mb-0" id="flush-headingTwo">
                                 <button
-                                    class="group relative flex w-full items-center rounded-none border-0 bg-white px-5 py-4 text-left text-base text-neutral-800 transition [overflow-anchor:none] hover:z-[2] focus:z-[3] focus:outline-none dark:bg-neutral-800 dark:text-white [&:not([data-te-collapse-collapsed])]:bg-white [&:not([data-te-collapse-collapsed])]:text-primary [&:not([data-te-collapse-collapsed])]:[box-shadow:inset_0_-1px_0_rgba(229,231,235)] dark:[&:not([data-te-collapse-collapsed])]:bg-neutral-800 dark:[&:not([data-te-collapse-collapsed])]:text-primary-400 dark:[&:not([data-te-collapse-collapsed])]:[box-shadow:inset_0_-1px_0_rgba(75,85,99)]"
+                                    class="group relative flex w-full items-center rounded-md border-0 bg-transparent px-5 py-4 text-left text-lg font-semibold text-neutral-800 transition [overflow-anchor:none] hover:z-[2] focus:z-[3] focus:outline-none dark:bg-neutral-800 dark:text-white [&:not([data-te-collapse-collapsed])]:bg-blue-50 [&:not([data-te-collapse-collapsed])]:text-blue-400 [&:not([data-te-collapse-collapsed])]:[box-shadow:inset_0_-1px_0_rgba(229,231,235)] dark:[&:not([data-te-collapse-collapsed])]:bg-neutral-800 dark:[&:not([data-te-collapse-collapsed])]:text-blue-400 dark:[&:not([data-te-collapse-collapsed])]:[box-shadow:inset_0_-1px_0_rgba(75,85,99)]"
                                     type="button" data-te-collapse-init data-te-collapse-collapsed
                                     data-te-target="#flush-collapseTwo" aria-expanded="false"
                                     aria-controls="flush-collapseTwo">
@@ -55,7 +55,7 @@
                             </h2>
                             <div id="flush-collapseTwo" class="!visible hidden border-0" data-te-collapse-item
                                 aria-labelledby="flush-headingTwo" data-te-parent="#accordionFlushExample">
-                                <div class="px-5 py-4">
+                                <div class="px-5 py-4 text-gray-500">
                                     Placeholder content for this accordion, which is intended to
                                     demonstrate the
                                     <code>.accordion-flush</code> class. This is the second item's
@@ -65,10 +65,10 @@
                             </div>
                         </div>
                         <div
-                            class="rounded-none border border-b-0 border-l-0 border-r-0 border-t-0 border-neutral-200 bg-white dark:border-neutral-600 dark:bg-neutral-800">
+                            class="mb-2 rounded-md border border-blue-400 bg-transparent dark:border-neutral-600 dark:bg-neutral-800">
                             <h2 class="mb-0" id="flush-headingThree">
                                 <button
-                                    class="group relative flex w-full items-center rounded-none border-0 bg-white px-5 py-4 text-left text-base text-neutral-800 transition [overflow-anchor:none] hover:z-[2] focus:z-[3] focus:outline-none dark:bg-neutral-800 dark:text-white [&:not([data-te-collapse-collapsed])]:bg-white [&:not([data-te-collapse-collapsed])]:text-primary [&:not([data-te-collapse-collapsed])]:[box-shadow:inset_0_-1px_0_rgba(229,231,235)] dark:[&:not([data-te-collapse-collapsed])]:bg-neutral-800 dark:[&:not([data-te-collapse-collapsed])]:text-primary-400 dark:[&:not([data-te-collapse-collapsed])]:[box-shadow:inset_0_-1px_0_rgba(75,85,99)]"
+                                    class="group relative flex w-full items-center rounded-md border-0 bg-transparent px-5 py-4 text-left text-lg font-semibold text-neutral-800 transition [overflow-anchor:none] hover:z-[2] focus:z-[3] focus:outline-none dark:bg-neutral-800 dark:text-white [&:not([data-te-collapse-collapsed])]:bg-blue-50 [&:not([data-te-collapse-collapsed])]:text-blue-400 [&:not([data-te-collapse-collapsed])]:[box-shadow:inset_0_-1px_0_rgba(229,231,235)] dark:[&:not([data-te-collapse-collapsed])]:bg-neutral-800 dark:[&:not([data-te-collapse-collapsed])]:text-blue-400 dark:[&:not([data-te-collapse-collapsed])]:[box-shadow:inset_0_-1px_0_rgba(75,85,99)]"
                                     type="button" data-te-collapse-init data-te-collapse-collapsed
                                     data-te-target="#flush-collapseThree" aria-expanded="false"
                                     aria-controls="flush-collapseThree">
@@ -85,7 +85,7 @@
                             </h2>
                             <div id="flush-collapseThree" class="!visible hidden" data-te-collapse-item
                                 aria-labelledby="flush-headingThree" data-te-parent="#accordionFlushExample">
-                                <div class="px-5 py-4">
+                                <div class="px-5 py-4 text-gray-500">
                                     Placeholder content for this accordion, which is intended to
                                     demonstrate the
                                     <code>.accordion-flush</code> class. This is the third item's
@@ -246,5 +246,9 @@
             </div>
         </div>
     </section>
+
+    <x-faq />
+
+    <x-maps />
 
 </x-default-layout>

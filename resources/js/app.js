@@ -15,10 +15,11 @@ import {
   Collapse,
   Carousel,
   Tab,
+  Stepper,
   initTE,
 } from "tw-elements";
 
-initTE({ Collapse, Carousel, Tab });
+initTE({ Collapse, Carousel, Tab, Stepper });
 
 
 

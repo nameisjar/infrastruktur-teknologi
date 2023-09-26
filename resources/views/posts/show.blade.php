@@ -12,6 +12,9 @@
                         class="w-full h-full object-cover object-center rounded-lg lg:h-180">
                         <img class="w-full" src="/images/OIP.jpeg" alt="{{ $post->title }}">
                     </object>
+                    <p class="text-sm text-gray-500 dark:text-gray-400 ">
+                        {{ $post->excerpt }}
+                    </p>
                     <address class="flex items-center mt-6 mb-6 not-italic">
                         <div class="inline-flex items-center mr-3 text-sm text-gray-900 dark:text-white">
                             <img class="mr-4 w-12 h-12 rounded-full max-w-xs transition duration-300 ease-in-out hover:scale-110"
