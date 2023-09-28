@@ -20,7 +20,7 @@
             <div class="flex items-center justify-between">
                 <div class="flex items-center">
                     <a href="#">
-                        <img class="w-auto h-6 sm:h-20" src="/images/logo.jpg" alt="">
+                        <img class="w-auto h-20 sm:h-34" src="/images/logolab.png" alt="">
                     </a>
 
                     <!-- Search input on desktop screen -->

@@ -2,7 +2,7 @@
 <div class="container px-6 py-16 mx-auto">
 
     <!--Section: Design Block-->
-    <section class="mb-20 text-gray-800 text-center">
+    <section class="mb-10 text-gray-800 text-center">
         <h3 class="font-bold text-3xl mb-12">Peta Laboratorium Infrastruktur Teknologi</h3>
         <div class="flex flex-wrap">
             <div class="mb-6 lg:mb-0 flex-initial shrink w-full lg:w-5/12 lg:pr-3">
@@ -30,6 +30,9 @@
                         <div data-te-stepper-content-ref
                             class="transition-[height, margin-bottom, padding-top, padding-bottom] left-0 overflow-hidden pb-6 pl-[3.75rem] pr-6 duration-300 ease-in-out">
                             Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
+                            eiusmod tempor incididunt ut labore et dolore magna aliqua.Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
+                            eiusmod tempor incididunt ut labore et dolore magna aliqua.Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
+                            eiusmod tempor incididunt ut labore et dolore magna aliqua.Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
                             eiusmod tempor incididunt ut labore et dolore magna aliqua.
                         </div>
                     </li>

@@ -66,4 +66,7 @@ class Post extends \Stephenjude\FilamentBlog\Models\Post
     {
         return 'slug';
     }
+
+    protected $perPage = 3; // Jumlah item per halaman
+
 }
