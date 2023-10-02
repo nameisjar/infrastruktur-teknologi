@@ -1,6 +1,6 @@
 <!-- Back to top button -->
 <button type="button" data-te-ripple-init data-te-ripple-color="light"
-    class="!fixed bottom-5 right-5 hidden rounded-full bg-blue-600 p-3 text-xs font-medium uppercase leading-tight text-white shadow-md transition duration-150 ease-in-out hover:bg-blue-700 hover:shadow-lg focus:bg-blue-700 focus:shadow-lg focus:outline-none focus:ring-0 active:bg-blue-800 active:shadow-lg"
+    class="!fixed bottom-5 right-5 hidden rounded-full bg-blue-600 p-3 text-xs font-medium uppercase leading-tight text-white shadow-md transition duration-500 ease-in-out hover:bg-blue-700 hover:shadow-lg focus:bg-blue-700 focus:shadow-lg focus:outline-none focus:ring-0 active:bg-blue-800 active:shadow-lg"
     id="btn-back-to-top">
     <svg class="w-7 h-7 transition duration-200 ease-in-out hover:-rotate-45" viewBox="0 0 24 24" fill="none"
         xmlns="http://www.w3.org/2000/svg" transform="matrix(1, 0, 0, -1, 0, 0)rotate(-45)">

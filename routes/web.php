@@ -16,7 +16,7 @@ use Illuminate\Support\Facades\Route;
 
 Route::get('/', [PostController::class, 'welcome']);
 Route::resource('posts', PostController::class)->only(['show', 'index']);
-Route::get('/about', [PostController::class, 'about'])->name('about');
+Route::get('/profile', [PostController::class, 'profile'])->name('profile');
 
 Route::middleware([
     'auth:sanctum',

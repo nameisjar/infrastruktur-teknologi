@@ -135,8 +135,8 @@
                 <div class="grid grid-cols-1 gap-6 sm:grid-cols-2 md:grid-cols-3 lg:grid-cols-4">
                     <div>
                         <h3 class="text-gray-700 uppercase dark:text-white">Tentang</h3>
-                        <a href="{{ route('about') }}"
-                            class="block mt-2 text-sm text-gray-600 dark:text-gray-400 hover:underline">Laboratorium</a>
+                        <a href="{{ route('profile') }}"
+                            class="block mt-2 text-sm text-gray-600 dark:text-gray-400 hover:underline">Profil</a>
                         <a href="#"
                             class="block mt-2 text-sm text-gray-600 dark:text-gray-400 hover:underline">community</a>
                         <a href="#"

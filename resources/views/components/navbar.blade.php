@@ -19,8 +19,8 @@
         <div class="flex flex-col md:flex-row md:justify-between md:items-center">
             <div class="flex items-center justify-between">
                 <div class="flex items-center">
-                    <a href="#">
-                        <img class="w-auto h-20 sm:h-34" src="/images/logolab.png" alt="">
+                    <a href="/">
+                        <img class="w-auto h-16 sm:h-34" src="/images/logo_lab.png" alt="">
                     </a>
 
                     <!-- Search input on desktop screen -->
@@ -67,9 +67,10 @@
                     <a class="my-2 p-4 border-b-2 text-base leading-5 text-gray-700 transition-colors duration-300 transform border-transparent dark:text-gray-200 hover:text-blue-600 dark:hover:text-blue-400 hover:border-blue-300 md:mx-4 md:my-0"
                         href="/">Beranda</a>
                     <a class="my-2 p-4 border-b-2 text-base leading-5 text-gray-700 transition-colors duration-300 transform border-transparent dark:text-gray-200 hover:text-blue-600 dark:hover:text-blue-400 hover:border-blue-300 md:mx-4 md:my-0"
-                        href="{{route('posts.index')}}">Blog</a>
+                        href="{{ route('profile') }}">Profil</a>
                     <a class="my-2 p-4 border-b-2 text-base leading-5 text-gray-700 transition-colors duration-300 transform border-transparent dark:text-gray-200 hover:text-blue-600 dark:hover:text-blue-400 hover:border-blue-300 md:mx-4 md:my-0"
-                        href="{{route('about')}}">Tentang</a>
+                        href="{{ route('posts.index') }}">Blog</a>
+
                     @auth
                         {{-- <a class="my-2 text-base leading-5 text-gray-700 transition-colors duration-300 transform dark:text-gray-200 hover:text-blue-600 dark:hover:text-blue-400 hover:underline md:mx-4 md:my-0"
                             href="/admin">Admin</a> --}}

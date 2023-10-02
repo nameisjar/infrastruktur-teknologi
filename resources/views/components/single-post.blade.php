@@ -24,8 +24,8 @@
             <p class="mb-4 mt-2 text-neutral-500 dark:text-neutral-300">
                 <small>Dipublikasikan
                     <u>{{ \Carbon\Carbon::parse($post->created_at)->locale('id')->diffForHumans() }}</u> Oleh
-                    <img class="inline w-6 h-6 rounded-full max-w-xs transition duration-300 ease-in-out hover:scale-110"
-                        src="{{ $post->author->photo_url }}" alt="{{ $post->author->name }}">
+                    {{-- <img class="inline w-6 h-6 rounded-full max-w-xs transition duration-300 ease-in-out hover:scale-110"
+                        src="{{ $post->author->photo_url }}" alt="{{ $post->author->name }}"> --}}
                     <a href="#!">{{ $post->author->name }}</a>
                 </small>
             </p>

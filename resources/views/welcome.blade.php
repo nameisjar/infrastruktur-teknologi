@@ -27,10 +27,9 @@
                                 data-te-collapse-show aria-labelledby="flush-headingOne"
                                 data-te-parent="#accordionFlushExample">
                                 <div class="px-5 py-4 text-gray-500">
-                                    Placeholder content for this accordion, which is intended to
-                                    demonstrate the
-                                    <code>.accordion-flush</code> class. This is the first item's
-                                    accordion body.
+                                    "Menjadi Laboratorium yang unggul dan aktif di bidang pengembangan teknologi serta
+                                    menjadi sarana praktikum untuk menunjang mata kuliah yang berkaitan tentang sistem
+                                    operasi dan jaringan".
                                 </div>
                             </div>
                         </div>
@@ -56,11 +55,18 @@
                             <div id="flush-collapseTwo" class="!visible hidden border-0" data-te-collapse-item
                                 aria-labelledby="flush-headingTwo" data-te-parent="#accordionFlushExample">
                                 <div class="px-5 py-4 text-gray-500">
-                                    Placeholder content for this accordion, which is intended to
-                                    demonstrate the
-                                    <code>.accordion-flush</code> class. This is the second item's
-                                    accordion body. Let's imagine this being filled with some actual
-                                    content.
+                                    <p>1. Melaksanakan dan memberikan kegiatan praktikum (sistem operasi dan jaringan)
+                                        secara professional dan berkualitas.
+                                    </p><br>
+                                    <p>2. Memberikan bimbingan kepada mahasiswa yang berhubungan dengan mata kuliah
+                                        sistem
+                                        operasi dan jaringan.
+                                    </p><br>
+                                    <p>3. Menyelenggarakan pelatihan dalam rangka peningkatan kualitas sumber daya
+                                        manusia
+                                        serta memajukan budaya penelitian dan pengembangan di bidang sistem
+                                        operasi dan jaringan.
+                                    </p>
                                 </div>
                             </div>
                         </div>
@@ -86,13 +92,16 @@
                             <div id="flush-collapseThree" class="!visible hidden" data-te-collapse-item
                                 aria-labelledby="flush-headingThree" data-te-parent="#accordionFlushExample">
                                 <div class="px-5 py-4 text-gray-500">
-                                    Placeholder content for this accordion, which is intended to
-                                    demonstrate the
-                                    <code>.accordion-flush</code> class. This is the third item's
-                                    accordion body. Nothing more exciting happening here in terms of
-                                    content, but just filling up the space to make it look, at least
-                                    at first glance, a bit more representative of how this would look
-                                    in a real-world application.
+                                    <p>1. Meningkatkan kompetensi mahasiswa di bidang sistem operasi dan jaringan
+                                        melalui
+                                        kegiatan praktikum yang profesional dan berkualitas.
+                                    </p><br>
+                                    <p>2. Mengembangkan kemampuan mahasiswa dalam menerapkan ilmu sistem operasi dan
+                                        jaringan melalui bimbingan dan pelatihan yang terstruktur.
+                                    </p><br>
+                                    <p>3. Meningkatkan kualitas sumber daya manusia dan memajukan budaya penelitian dan
+                                        pengembangan di bidang sistem operasi dan jaringan.
+                                    </p>
                                 </div>
                             </div>
                         </div>
@@ -220,7 +229,7 @@
                 </h1>
 
                 <p class="max-w-lg mx-auto mt-4 text-gray-500">
-                    Blog yang memberikan informasi terkait mata kuliah Laboratorium Infrastruktur Teknologi atau lainnya
+                    Memberikan informasi terkait mata kuliah Laboratorium Infrastruktur Teknologi atau lainnya
                 </p>
             </div>
 

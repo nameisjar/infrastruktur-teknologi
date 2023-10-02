@@ -33,7 +33,7 @@ class PostController extends Controller
         ]);
     }
 
-    public function about()
+    public function profile()
     {
         return view('about');
     }
