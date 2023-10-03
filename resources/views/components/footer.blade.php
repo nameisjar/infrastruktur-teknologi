@@ -7,124 +7,38 @@
                         <img class="w-auto h-14" src="/images/logolab.png" alt="">
                     </a>
 
-                    <p class="max-w-sm mt-2 text-gray-500 dark:text-gray-400">Join 31,000+ other and never miss out on
-                        new tips, tutorials, and more.</p>
+                    <p class="max-w-sm mt-2 text-gray-500 dark:text-gray-400">Bergabung menjadi bagian dari lab. InfraTek
+                        agar
+                        mendapatkan info seputar dunia perkuliahan</p>
 
                     <div class="flex mt-6 -mx-2">
-                        <a href="#"
+                        <a href="https://www.instagram.com/infratekilkomunej/"
                             class="mx-2 text-gray-600 transition-colors duration-300 dark:text-gray-300 hover:text-blue-500 dark:hover:text-blue-400"
                             aria-label="Instagram">
-                            <svg class="w-4 h-4" version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg"
-                                xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 512 512" xml:space="preserve"
-                                fill="#ffffff">
-                                <g id="SVGRepo_bgCarrier" stroke-width="0"></g>
-                                <g id="SVGRepo_tracerCarrier" stroke-linecap="round" stroke-linejoin="round">
-                                </g>
-                                <g id="SVGRepo_iconCarrier">
-                                    <path style="fill:#FDE494;"
-                                        d="M114.759,512h61.103l-96.414-61.793L0.198,403.898C3.659,464.09,53.716,512,114.759,512z">
-                                    </path>
-                                    <path style="fill:#FEA150;"
-                                        d="M335.448,476.69l-69.006-17.655H114.759c-34.072,0-61.793-27.721-61.793-61.793v-33.876 l-26.483-28.42L0,339.628v57.613c0,2.236,0.072,4.454,0.198,6.657L175.862,512h208.767L335.448,476.69z">
-                                    </path>
-                                    <path style="fill:#FF5D4A;"
-                                        d="M441.655,440.14c-11.244,11.637-26.993,18.894-44.414,18.894H266.442L384.629,512h12.612 c41.202,0,77.396-21.829,97.64-54.527l-27.022-16.094L441.655,440.14z">
-                                    </path>
-                                    <path style="fill:#E45261;"
-                                        d="M459.034,326.014v71.228c0,16.652-6.633,31.775-17.379,42.899l53.227,17.333 C505.728,439.954,512,419.318,512,397.241v-62.805l-27.396-15.391L459.034,326.014z">
-                                    </path>
-                                    <polygon style="fill:#FF4D95;"
-                                        points="512,149.19 483.797,142.474 459.034,157.3 459.034,326.014 512,334.436 ">
-                                    </polygon>
-                                    <path style="fill:#CB319C;"
-                                        d="M512,114.759c0-57.633-42.708-105.473-98.136-113.55L344.43,30.101l-35.183,22.865h87.994 c34.072,0,61.793,27.721,61.793,61.793V157.3L512,149.19V114.759z">
-                                    </path>
-                                    <path style="fill:#8A3293;"
-                                        d="M317.732,0l-65.682,24.636l-51.805,28.33h109.002L413.864,1.208C408.435,0.417,402.887,0,397.241,0 H317.732z">
-                                    </path>
-                                    <path style="fill:#FF5D4A;"
-                                        d="M256,406.069c18.358,0,35.954-3.32,52.226-9.38l-86.02-39.047l-91.178-18.657 C157.946,379.39,203.913,406.069,256,406.069z">
-                                    </path>
-                                    <path style="fill:#E45261;"
-                                        d="M329.153,305.358c-15.883,23.465-42.748,38.918-73.153,38.918c-40.273,0-74.308-27.118-84.867-64.046 l-23.682-14.801l-40.847,4.538c2.353,25.345,11.014,48.887,24.425,69.017l177.198,57.705c38.303-14.264,69.237-43.757,85.458-81.068 l-31.753-16.085L329.153,305.358z">
-                                    </path>
-                                    <g>
-                                        <path style="fill:#FF4D95;"
-                                            d="M167.724,256c0-21.878,8.018-41.907,21.247-57.346l-37.658-5.268l-38.25,16.892 c-4.625,14.422-7.132,29.784-7.132,45.722c0,4.712,0.244,9.365,0.671,13.966l64.53,10.262 C168.929,272.524,167.724,264.403,167.724,256z">
-                                        </path>
-                                        <path style="fill:#FF4D95;"
-                                            d="M406.069,256c0-32.138-10.159-61.946-27.428-86.39l-37.397-5.308l-38.418,16.917 c24.873,15.631,41.45,43.298,41.45,74.781c0,18.27-5.58,35.261-15.123,49.358l64.531,10.262 C401.634,297.334,406.069,277.18,406.069,256z">
-                                        </path>
-                                    </g>
-                                    <g>
-                                        <path style="fill:#CB319C;"
-                                            d="M256,167.724c17.194,0,33.242,4.959,46.826,13.495l75.815-11.609 c-27.196-38.493-72.03-63.679-122.641-63.679c-66.81,0-123.554,43.889-142.937,104.345l75.908-11.624 C205.173,179.742,229.203,167.724,256,167.724z">
-                                        </path>
-                                        <path style="fill:#CB319C;"
-                                            d="M397.241,150.069c19.47,0,35.31-15.84,35.31-35.31s-15.84-35.31-35.31-35.31 c-19.47,0-35.31,15.84-35.31,35.31S377.771,150.069,397.241,150.069z">
-                                        </path>
-                                    </g>
-                                    <polygon style="fill:#FF5D4A;"
-                                        points="52.966,313.564 27.47,300.847 0,296.316 0,339.629 52.966,363.366 ">
-                                    </polygon>
-                                    <polygon style="fill:#E45261;"
-                                        points="0,253.014 0,296.316 52.966,313.564 52.966,261.437 25.446,251.543 ">
-                                    </polygon>
-                                    <polygon style="fill:#FF4D95;"
-                                        points="52.966,219.479 25.749,219.233 0,227.59 0,253.014 52.966,261.437 ">
-                                    </polygon>
-                                    <polygon style="fill:#CB319C;"
-                                        points="52.966,179.757 24.911,182.603 0,205.962 0,227.59 52.966,219.479 ">
-                                    </polygon>
-                                    <polygon style="fill:#8A3293;"
-                                        points="0,205.962 52.966,179.757 52.966,119.362 21.9,122.333 0,143.241 ">
-                                    </polygon>
-                                    <path style="fill:#523494;"
-                                        d="M205.059,0L84.206,46.481L1.387,96.928C0.477,102.741,0,108.695,0,114.759v28.482l52.966-23.878 v-4.605c0-34.072,27.721-61.793,61.793-61.793h85.487L317.732,0H205.059z">
-                                    </path>
-                                    <path style="fill:#2D2D87;"
-                                        d="M114.759,0C57.545,0,9.978,42.088,1.387,96.928L205.059,0H114.759z">
-                                    </path>
-                                </g>
+                            <svg xmlns="http://www.w3.org/2000/svg" class="h-4 w-4" fill="currentColor"
+                                style="color: #c13584" viewBox="0 0 24 24">
+                                <path
+                                    d="M12 2.163c3.204 0 3.584.012 4.85.07 3.252.148 4.771 1.691 4.919 4.919.058 1.265.069 1.645.069 4.849 0 3.205-.012 3.584-.069 4.849-.149 3.225-1.664 4.771-4.919 4.919-1.266.058-1.644.07-4.85.07-3.204 0-3.584-.012-4.849-.07-3.26-.149-4.771-1.699-4.919-4.92-.058-1.265-.07-1.644-.07-4.849 0-3.204.013-3.583.07-4.849.149-3.227 1.664-4.771 4.919-4.919 1.266-.057 1.645-.069 4.849-.069zm0-2.163c-3.259 0-3.667.014-4.947.072-4.358.2-6.78 2.618-6.98 6.98-.059 1.281-.073 1.689-.073 4.948 0 3.259.014 3.668.072 4.948.2 4.358 2.618 6.78 6.98 6.98 1.281.058 1.689.072 4.948.072 3.259 0 3.668-.014 4.948-.072 4.354-.2 6.782-2.618 6.979-6.98.059-1.28.073-1.689.073-4.948 0-3.259-.014-3.667-.072-4.947-.196-4.354-2.617-6.78-6.979-6.98-1.281-.059-1.69-.073-4.949-.073zm0 5.838c-3.403 0-6.162 2.759-6.162 6.162s2.759 6.163 6.162 6.163 6.162-2.759 6.162-6.163c0-3.403-2.759-6.162-6.162-6.162zm0 10.162c-2.209 0-4-1.79-4-4 0-2.209 1.791-4 4-4s4 1.791 4 4c0 2.21-1.791 4-4 4zm6.406-11.845c-.796 0-1.441.645-1.441 1.44s.645 1.44 1.441 1.44c.795 0 1.439-.645 1.439-1.44s-.644-1.44-1.439-1.44z" />
                             </svg>
                         </a>
 
-                        <a href="#"
+                        <a href="https://www.youtube.com/@LabInfraTek/featured"
                             class="mx-2 text-gray-600 transition-colors duration-300 dark:text-gray-300 hover:text-blue-500 dark:hover:text-blue-400"
                             aria-label="Facebook">
-                            <svg class="w-4 h-4" version="1.1" id="Layer_1"
-                                xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"
-                                viewBox="0 0 512 512" xml:space="preserve" fill="#ffffff">
-                                <g id="SVGRepo_bgCarrier" stroke-width="0"></g>
-                                <g id="SVGRepo_tracerCarrier" stroke-linecap="round" stroke-linejoin="round"></g>
-                                <g id="SVGRepo_iconCarrier">
-                                    <path style="fill:#F61C0D;"
-                                        d="M506.703,145.655c0,0-5.297-37.959-20.303-54.731c-19.421-22.069-41.49-22.069-51.2-22.952 C363.697,62.676,256,61.793,256,61.793l0,0c0,0-107.697,0.883-179.2,6.179c-9.71,0.883-31.779,1.766-51.2,22.952 C9.71,107.697,5.297,145.655,5.297,145.655S0,190.676,0,235.697v41.49c0,45.021,5.297,89.159,5.297,89.159 s5.297,37.959,20.303,54.731c19.421,22.069,45.021,21.186,56.497,23.835C122.703,449.324,256,450.207,256,450.207 s107.697,0,179.2-6.179c9.71-0.883,31.779-1.766,51.2-22.952c15.007-16.772,20.303-54.731,20.303-54.731S512,321.324,512,277.186 v-41.49C512,190.676,506.703,145.655,506.703,145.655">
-                                    </path>
-                                    <polygon style="fill:#FFFFFF;"
-                                        points="194.207,166.841 194.207,358.4 361.931,264.828 "></polygon>
-                                </g>
+                            <svg xmlns="http://www.w3.org/2000/svg" class="h-4 w-4" fill="currentColor"
+                                style="color: #ff0000" viewBox="0 0 24 24">
+                                <path
+                                    d="M19.615 3.184c-3.604-.246-11.631-.245-15.23 0-3.897.266-4.356 2.62-4.385 8.816.029 6.185.484 8.549 4.385 8.816 3.6.245 11.626.246 15.23 0 3.897-.266 4.356-2.62 4.385-8.816-.029-6.185-.484-8.549-4.385-8.816zm-10.615 12.816v-8l8 3.993-8 4.007z" />
                             </svg>
                         </a>
 
-                        <a href="#"
+                        <a href="https://www.linkedin.com/company/laboratorium-infrastruktur-teknologi/"
                             class="mx-2 text-gray-600 transition-colors duration-300 dark:text-gray-300 hover:text-blue-500 dark:hover:text-blue-400"
                             aria-label="LinkedIn">
-                            <svg xmlns="http://www.w3.org/2000/svg" aria-label="LinkedIn" role="img"
-                                viewBox="0 0 512 512" fill="#ffffff" class="w-4 h-4">
-                                <g id="SVGRepo_bgCarrier" stroke-width="0"></g>
-                                <g id="SVGRepo_tracerCarrier" stroke-linecap="round" stroke-linejoin="round">
-                                </g>
-                                <g id="SVGRepo_iconCarrier">
-                                    <rect width="512" height="512" rx="15%" fill="#0077b5">
-                                    </rect>
-                                    <circle cx="142" cy="138" r="37"></circle>
-                                    <path stroke="#ffffff" stroke-width="66" d="M244 194v198M142 194v198">
-                                    </path>
-                                    <path
-                                        d="M276 282c0-20 13-40 36-40 24 0 33 18 33 45v105h66V279c0-61-32-89-76-89-34 0-51 19-59 32">
-                                    </path>
-                                </g>
+                            <svg xmlns="http://www.w3.org/2000/svg" class="h-4 w-4" fill="currentColor"
+                                style="color: #0077b5" viewBox="0 0 24 24">
+                                <path
+                                    d="M4.98 3.5c0 1.381-1.11 2.5-2.48 2.5s-2.48-1.119-2.48-2.5c0-1.38 1.11-2.5 2.48-2.5s2.48 1.12 2.48 2.5zm.02 4.5h-5v16h5v-16zm7.982 0h-4.968v16h4.969v-8.399c0-4.67 6.029-5.052 6.029 0v8.399h4.988v-10.131c0-7.88-8.922-7.593-11.018-3.714v-2.155z" />
                             </svg>
                         </a>
                     </div>
@@ -137,10 +51,10 @@
                         <h3 class="text-gray-700 uppercase dark:text-white">Tentang</h3>
                         <a href="{{ route('profile') }}"
                             class="block mt-2 text-sm text-gray-600 dark:text-gray-400 hover:underline">Profil</a>
-                        <a href="#"
+                        {{-- <a href="#"
                             class="block mt-2 text-sm text-gray-600 dark:text-gray-400 hover:underline">community</a>
                         <a href="#"
-                            class="block mt-2 text-sm text-gray-600 dark:text-gray-400 hover:underline">Careers</a>
+                            class="block mt-2 text-sm text-gray-600 dark:text-gray-400 hover:underline">Careers</a> --}}
                     </div>
 
                     <div>
@@ -163,8 +77,8 @@
 
                     <div>
                         <h3 class="text-gray-700 uppercase dark:text-white">Kontak</h3>
-                        <span class="block mt-2 text-sm text-gray-600 dark:text-gray-400 hover:underline">+1 526 654
-                            8965</span>
+                        <span class="block mt-2 text-sm text-gray-600 dark:text-gray-400 hover:underline">+62 822 3989
+                            1375</span>
                         <span
                             class="block mt-2 text-sm text-gray-600 dark:text-gray-400 hover:underline">labinfratekilkomunej@gmail.com</span>
                     </div>
@@ -175,7 +89,7 @@
         <hr class="h-px my-6 bg-gray-200 border-none dark:bg-gray-700">
 
         <div>
-            <p class="text-center text-gray-500 dark:text-gray-400">© InfraTech 2023 - All rights reserved</p>
+            <p class="text-center text-gray-500 dark:text-gray-400">© InfraTek 2023 - All rights reserved</p>
         </div>
     </div>
 </footer>

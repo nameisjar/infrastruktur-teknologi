@@ -230,7 +230,8 @@
                                 M. Rendy Firmansyah
                             </h1>
 
-                            <p class="mt-2 text-gray-500 capitalize dark:text-gray-300">Koordinator Laboratorium</p>
+                            <p class="mt-2 text-gray-900 capitalize dark:text-gray-700">Koordinator Laboratorium</p>
+                            <p class="text-gray-500 dark:text-gray-300">IF 21</p>
 
                             <div class="flex mt-3 -mx-2">
                                 <a href="#"
@@ -359,7 +360,8 @@
                                 Maulidaturrohmah
                             </h1>
 
-                            <p class="mt-2 text-gray-500 capitalize dark:text-gray-300">Bendahara</p>
+                            <p class="mt-2 text-gray-900 capitalize dark:text-gray-700">Bendahara</p>
+                            <p class="text-gray-500 dark:text-gray-300">TI 21</p>
 
                             <div class="flex mt-3 -mx-2">
                                 <a href="#"
@@ -488,7 +490,8 @@
                                 Muhammad Sahrul Ibad
                             </h1>
 
-                            <p class="mt-2 text-gray-500 capitalize dark:text-gray-300">Sekretaris</p>
+                            <p class="mt-2 text-gray-900 capitalize dark:text-gray-700">Sekretaris</p>
+                            <p class="text-gray-500 dark:text-gray-300">TI 21</p>
 
                             <div class="flex mt-3 -mx-2">
                                 <a href="#"
@@ -648,8 +651,10 @@
                                 Farah Fairus
                             </h1>
 
-                            <p class="mt-2 text-gray-500 capitalize dark:text-gray-300">Koordinator Div. Pengembangan
-                                Ilmu</p>
+                            <p class="mt-2 text-gray-900 capitalize dark:text-gray-700">Koordinator Div. Pengembangan
+                                Ilmu
+                            </p>
+                            <p class="text-gray-500 dark:text-gray-300">TI 22</p>
 
                             <div class="flex mt-3 -mx-2">
                                 <a href="#"
@@ -776,7 +781,8 @@
                             <h1 class="mt-4 text-2xl font-semibold text-gray-700 capitalize dark:text-white">
                                 Abd. Mu'iz Samsul Arifin
                             </h1>
-                            <p class="mt-2 text-gray-500 capitalize dark:text-gray-300">Staff</p>
+                            <p class="mt-2 text-gray-900 capitalize dark:text-gray-700">Staff</p>
+                            <p class="text-gray-500 dark:text-gray-300">SI 22</p>
                             <div class="flex mt-3 -mx-2">
                                 <a href="#"
                                     class="mx-2 text-gray-600 transition-colors duration-300 dark:text-gray-300 hover:text-blue-500 dark:hover:text-blue-400"
@@ -902,7 +908,8 @@
                             <h1 class="mt-4 text-2xl font-semibold text-gray-700 capitalize dark:text-white">
                                 Maretha Nur Azizah
                             </h1>
-                            <p class="mt-2 text-gray-500 capitalize dark:text-gray-300">Staff</p>
+                            <p class="mt-2 text-gray-900 capitalize dark:text-gray-700">Staff</p>
+                            <p class="text-gray-500 dark:text-gray-300">SI 22</p>
                             <div class="flex mt-3 -mx-2">
                                 <a href="#"
                                     class="mx-2 text-gray-600 transition-colors duration-300 dark:text-gray-300 hover:text-blue-500 dark:hover:text-blue-400"
@@ -1022,14 +1029,14 @@
                                 </a>
                             </div>
                         </div>
-
                         <div class="flex flex-col items-center p-4 border sm:p-6 rounded-xl dark:border-gray-700">
                             <img class="object-cover w-full rounded-xl aspect-square" src="images/yuandika.png"
                                 alt="yuandika">
                             <h1 class="mt-4 text-2xl font-semibold text-gray-700 capitalize dark:text-white">
                                 Yuandika Purnama H.
                             </h1>
-                            <p class="mt-2 text-gray-500 capitalize dark:text-gray-300">Staff</p>
+                            <p class="mt-2 text-gray-900 capitalize dark:text-gray-700">Staff</p>
+                            <p class="text-gray-500 dark:text-gray-300">TI 22</p>
                             <div class="flex mt-3 -mx-2">
                                 <a href="#"
                                     class="mx-2 text-gray-600 transition-colors duration-300 dark:text-gray-300 hover:text-blue-500 dark:hover:text-blue-400"
@@ -1173,12 +1180,13 @@
                     <div class="grid grid-cols-1 gap-8 mt-8 xl:mt-16 md:grid-cols-2 xl:grid-cols-2">
                         <div class="flex flex-col items-center p-4 border sm:p-6 rounded-xl dark:border-gray-700">
                             <img class="object-cover w-full rounded-xl aspect-square"
-                                src="https://images.unsplash.com/photo-1535713875002-d1d0cf377fde?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=880&q=80"
-                                alt="">
+                                src="images/fadil.png"
+                                alt="fadil">
                             <h1 class="mt-4 text-2xl font-semibold text-gray-700 capitalize dark:text-white">
                                 Rohmatullah Fadhillah
                             </h1>
-                            <p class="mt-2 text-gray-500 capitalize dark:text-gray-300">Koordinator Div. Penelitian</p>
+                            <p class="mt-2 text-gray-900 capitalize dark:text-gray-700">Koordinator Div. Penelitian</p>
+                            <p class="text-gray-500 dark:text-gray-300">IF 21</p>
                             <div class="flex mt-3 -mx-2">
                                 <a href="#"
                                     class="mx-2 text-gray-600 transition-colors duration-300 dark:text-gray-300 hover:text-blue-500 dark:hover:text-blue-400"
@@ -1307,7 +1315,8 @@
                             <h1 class="mt-4 text-2xl font-semibold text-gray-700 capitalize dark:text-white">
                                 Afita Ganda Rizka
                             </h1>
-                            <p class="mt-2 text-gray-500 capitalize dark:text-gray-300">Staff</p>
+                            <p class="mt-2 text-gray-900 capitalize dark:text-gray-700">Staff</p>
+                            <p class="text-gray-500 dark:text-gray-300">SI 21</p>
                             <div class="flex mt-3 -mx-2">
                                 <a href="#"
                                     class="mx-2 text-gray-600 transition-colors duration-300 dark:text-gray-300 hover:text-blue-500 dark:hover:text-blue-400"
@@ -1438,7 +1447,8 @@
                             <h1 class="mt-4 text-2xl font-semibold text-gray-700 capitalize dark:text-white">
                                 Ahmad Nafi' Mu'izzuddin
                             </h1>
-                            <p class="mt-2 text-gray-500 capitalize dark:text-gray-300">Staff</p>
+                            <p class="mt-2 text-gray-900 capitalize dark:text-gray-700">Staff</p>
+                            <p class="text-gray-500 dark:text-gray-300">IF 22</p>
                             <div class="flex mt-3 -mx-2">
                                 <a href="#"
                                     class="mx-2 text-gray-600 transition-colors duration-300 dark:text-gray-300 hover:text-blue-500 dark:hover:text-blue-400"
@@ -1569,7 +1579,8 @@
                             <h1 class="mt-4 text-2xl font-semibold text-gray-700 capitalize dark:text-white">
                                 Nadilia Dwi Oktavia
                             </h1>
-                            <p class="mt-2 text-gray-500 capitalize dark:text-gray-300">Staff</p>
+                            <p class="mt-2 text-gray-900 capitalize dark:text-gray-700">Staff</p>
+                            <p class="text-gray-500 dark:text-gray-300">SI 22</p>
                             <div class="flex mt-3 -mx-2">
                                 <a href="#"
                                     class="mx-2 text-gray-600 transition-colors duration-300 dark:text-gray-300 hover:text-blue-500 dark:hover:text-blue-400"
@@ -1727,8 +1738,10 @@
                             <h1 class="mt-4 text-2xl font-semibold text-gray-700 capitalize dark:text-white">
                                 Niko Muhamad Fajar
                             </h1>
-                            <p class="mt-2 text-gray-500 capitalize dark:text-gray-300">Koordinator Div. Media
-                                Teknologi</p>
+                            <p class="mt-2 text-gray-900 capitalize dark:text-gray-700">Koordinator Div. Media
+                                Teknologi
+                            </p>
+                            <p class="text-gray-500 dark:text-gray-300">SI 21</p>
                             <div class="flex mt-3 -mx-2">
                                 <a href="#"
                                     class="mx-2 text-gray-600 transition-colors duration-300 dark:text-gray-300 hover:text-blue-500 dark:hover:text-blue-400"
@@ -1857,7 +1870,8 @@
                             <h1 class="mt-4 text-2xl font-semibold text-gray-700 capitalize dark:text-white">
                                 Mita Nurul Azizah
                             </h1>
-                            <p class="mt-2 text-gray-500 capitalize dark:text-gray-300">Staff</p>
+                            <p class="mt-2 text-gray-900 capitalize dark:text-gray-700">Staff</p>
+                            <p class="text-gray-500 dark:text-gray-300">TI 22</p>
                             <div class="flex mt-3 -mx-2">
                                 <a href="#"
                                     class="mx-2 text-gray-600 transition-colors duration-300 dark:text-gray-300 hover:text-blue-500 dark:hover:text-blue-400"
@@ -1982,14 +1996,15 @@
 
                         <div class="flex flex-col items-center p-4 border sm:p-6 rounded-xl dark:border-gray-700">
                             <img class="object-cover w-full rounded-xl aspect-square"
-                                src="https://images.unsplash.com/photo-1570295999919-56ceb5ecca61?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=880&q=80"
-                                alt="">
+                                src="images/febri.png"
+                                alt="febrianto">
 
                             <h1 class="mt-4 text-2xl font-semibold text-gray-700 capitalize dark:text-white">
                                 Febrianto Noto Negoro
                             </h1>
 
-                            <p class="mt-2 text-gray-500 capitalize dark:text-gray-300">Staff</p>
+                            <p class="mt-2 text-gray-900 capitalize dark:text-gray-700">Staff</p>
+                            <p class="text-gray-500 dark:text-gray-300">IF 22</p>
 
                             <div class="flex mt-3 -mx-2">
                                 <a href="#"

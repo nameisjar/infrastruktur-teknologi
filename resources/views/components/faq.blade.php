@@ -35,13 +35,13 @@
                             data-te-toggle="pill" data-te-target="#tabs-contact03" role="tab"
                             aria-controls="tabs-contact03" aria-selected="false">Dropbox Pengumpulan</a>
                     </li>
-                    <li role="presentation" class="flex-grow text-center">
-                        {{-- disabled pointer-events-none --}}
+                    {{-- <li role="presentation" class="flex-grow text-center">
+                        disabled pointer-events-none
                         <a href="#tabs-file03"
                             class="my-2 block border-x-0 border-b-2 border-t-0 border-transparent px-7 pb-3.5 pt-4 text-xs font-medium uppercase leading-tight text-neutral-500 hover:isolate hover:border-transparent hover:bg-neutral-100 focus:isolate focus:border-transparent data-[te-nav-active]:border-blue-400 data-[te-nav-active]:text-border-blue-400 dark:text-neutral-400 dark:hover:bg-transparent dark:data-[te-nav-active]:border-blue-400-400 dark:data-[te-nav-active]:text-border-blue-400-400"
                             data-te-toggle="pill" data-te-target="#tabs-file03" role="tab"
                             aria-controls="tabs-file03" aria-selected="false">Instalasi</a>
-                    </li>
+                    </li> --}}
                 </ul>
             </div>
 
@@ -101,13 +101,11 @@
                                     <span class="border border-blue-500"></span>
 
                                     <p class="max-w-3xl px-4 text-gray-500 dark:text-gray-300">
-                                        Lorem ipsum dolor sit amet consectetur adipisicing elit. Magni, eum quae.
-                                        Harum
-                                        officiis
-                                        reprehenderit ex quia ducimus minima id provident molestias optio nam vel,
-                                        quidem
-                                        iure
-                                        voluptatem, repellat et ipsa.
+                                        Isilah formulir <a href="#"
+                                            class="font-medium text-blue-600 underline dark:text-blue-500 hover:no-underline">
+                                            Perizinan</a>
+                                        dengan lengkap dan benar. Setelah anda mengisi formulir
+                                        tersebut, konfirmasi segera dengan asisten pratikum kalian.
                                     </p>
                                 </div>
                             </div>
@@ -180,14 +178,43 @@
                                 <div class="flex mt-8 md:mx-10">
                                     <span class="border border-blue-500"></span>
 
-                                    <p class="max-w-3xl px-4 text-gray-500 dark:text-gray-300">
-                                        Lorem ipsum dolor sit amet consectetur adipisicing elit. Magni, eum quae.
-                                        Harum
-                                        officiis
-                                        reprehenderit ex quia ducimus minima id provident molestias optio nam vel,
-                                        quidem
-                                        iure
-                                        voluptatem, repellat et ipsa. lore
+                                    <p class="max-w-4xl px-4 text-gray-500 dark:text-gray-300">
+                                        <a href="/profile">
+                                            <button
+                                                class="relative inline-flex items-center justify-center p-0.5 mb-2 mr-2 overflow-hidden text-sm font-medium text-gray-900 rounded-lg group bg-gradient-to-br from-purple-600 to-blue-500 group-hover:from-purple-600 group-hover:to-blue-500 hover:text-white dark:text-white focus:ring-4 focus:outline-none focus:ring-blue-300 dark:focus:ring-blue-800">
+                                                <span
+                                                    class="relative px-5 py-2.5 transition-all ease-in duration-75 bg-white dark:bg-gray-900 rounded-md group-hover:bg-opacity-0">
+                                                    Jaringan Komputer
+                                                </span>
+                                            </button>
+                                        </a>
+                                        <a href="">
+                                            <button
+                                                class="relative inline-flex items-center justify-center p-0.5 mb-2 mr-2 overflow-hidden text-sm font-medium text-gray-900 rounded-lg group bg-gradient-to-br from-cyan-500 to-blue-500 group-hover:from-cyan-500 group-hover:to-blue-500 hover:text-white dark:text-white focus:ring-4 focus:outline-none focus:ring-cyan-200 dark:focus:ring-cyan-800">
+                                                <span
+                                                    class="relative px-5 py-2.5 transition-all ease-in duration-75 bg-white dark:bg-gray-900 rounded-md group-hover:bg-opacity-0">
+                                                    Sistem Operasi
+                                                </span>
+                                            </button>
+                                        </a>
+                                        <a href="">
+                                            <button
+                                                class="relative inline-flex items-center justify-center p-0.5 mb-2 mr-2 overflow-hidden text-sm font-medium text-gray-900 rounded-lg group bg-gradient-to-br from-green-400 to-blue-600 group-hover:from-green-400 group-hover:to-blue-600 hover:text-white dark:text-white focus:ring-4 focus:outline-none focus:ring-green-200 dark:focus:ring-green-800">
+                                                <span
+                                                    class="relative px-5 py-2.5 transition-all ease-in duration-75 bg-white dark:bg-gray-900 rounded-md group-hover:bg-opacity-0">
+                                                    Routing dan Switching
+                                                </span>
+                                            </button>
+                                        </a>
+                                        <a href="">
+                                            <button
+                                                class="relative inline-flex items-center justify-center p-0.5 mb-2 mr-2 overflow-hidden text-sm font-medium text-gray-900 rounded-lg group bg-gradient-to-br from-purple-500 to-pink-500 group-hover:from-purple-500 group-hover:to-pink-500 hover:text-white dark:text-white focus:ring-4 focus:outline-none focus:ring-purple-200 dark:focus:ring-purple-800">
+                                                <span
+                                                    class="relative px-5 py-2.5 transition-all ease-in duration-75 bg-white dark:bg-gray-900 rounded-md group-hover:bg-opacity-0">
+                                                    Desain dan Manajemen Jaringan
+                                                </span>
+                                            </button>
+                                        </a>
                                     </p>
                                 </div>
                             </div>
@@ -242,14 +269,43 @@
                                 <div class="flex mt-8 md:mx-10">
                                     <span class="border border-blue-500"></span>
 
-                                    <p class="max-w-3xl px-4 text-gray-500 dark:text-gray-300">
-                                        Lorem ipsum dolor sit amet consectetur adipisicing elit. Magni, eum quae.
-                                        Harum
-                                        officiis
-                                        reprehenderit ex quia ducimus minima id provident molestias optio nam vel,
-                                        quidem
-                                        iure
-                                        voluptatem, repellat et ipsa. lore
+                                    <p class="max-w-4xl px-4 text-gray-500 dark:text-gray-300">
+                                        <a href="/profile">
+                                            <button
+                                                class="relative inline-flex items-center justify-center p-0.5 mb-2 mr-2 overflow-hidden text-sm font-medium text-gray-900 rounded-lg group bg-gradient-to-br from-purple-600 to-blue-500 group-hover:from-purple-600 group-hover:to-blue-500 hover:text-white dark:text-white focus:ring-4 focus:outline-none focus:ring-blue-300 dark:focus:ring-blue-800">
+                                                <span
+                                                    class="relative px-5 py-2.5 transition-all ease-in duration-75 bg-white dark:bg-gray-900 rounded-md group-hover:bg-opacity-0">
+                                                    Jaringan Komputer
+                                                </span>
+                                            </button>
+                                        </a>
+                                        <a href="">
+                                            <button
+                                                class="relative inline-flex items-center justify-center p-0.5 mb-2 mr-2 overflow-hidden text-sm font-medium text-gray-900 rounded-lg group bg-gradient-to-br from-cyan-500 to-blue-500 group-hover:from-cyan-500 group-hover:to-blue-500 hover:text-white dark:text-white focus:ring-4 focus:outline-none focus:ring-cyan-200 dark:focus:ring-cyan-800">
+                                                <span
+                                                    class="relative px-5 py-2.5 transition-all ease-in duration-75 bg-white dark:bg-gray-900 rounded-md group-hover:bg-opacity-0">
+                                                    Sistem Operasi
+                                                </span>
+                                            </button>
+                                        </a>
+                                        <a href="">
+                                            <button
+                                                class="relative inline-flex items-center justify-center p-0.5 mb-2 mr-2 overflow-hidden text-sm font-medium text-gray-900 rounded-lg group bg-gradient-to-br from-green-400 to-blue-600 group-hover:from-green-400 group-hover:to-blue-600 hover:text-white dark:text-white focus:ring-4 focus:outline-none focus:ring-green-200 dark:focus:ring-green-800">
+                                                <span
+                                                    class="relative px-5 py-2.5 transition-all ease-in duration-75 bg-white dark:bg-gray-900 rounded-md group-hover:bg-opacity-0">
+                                                    Routing dan Switching
+                                                </span>
+                                            </button>
+                                        </a>
+                                        <a href="">
+                                            <button
+                                                class="relative inline-flex items-center justify-center p-0.5 mb-2 mr-2 overflow-hidden text-sm font-medium text-gray-900 rounded-lg group bg-gradient-to-br from-purple-500 to-pink-500 group-hover:from-purple-500 group-hover:to-pink-500 hover:text-white dark:text-white focus:ring-4 focus:outline-none focus:ring-purple-200 dark:focus:ring-purple-800">
+                                                <span
+                                                    class="relative px-5 py-2.5 transition-all ease-in duration-75 bg-white dark:bg-gray-900 rounded-md group-hover:bg-opacity-0">
+                                                    Desain dan Manajemen Jaringan
+                                                </span>
+                                            </button>
+                                        </a>
                                     </p>
                                 </div>
                             </div>
@@ -287,13 +343,11 @@
                                     <span class="border border-blue-500"></span>
 
                                     <p class="max-w-3xl px-4 text-gray-500 dark:text-gray-300">
-                                        Lorem ipsum dolor sit amet consectetur adipisicing elit. Magni, eum quae.
-                                        Harum
-                                        officiis
-                                        reprehenderit ex quia ducimus minima id provident molestias optio nam vel,
-                                        quidem
-                                        iure
-                                        voluptatem, repellat et ipsa. lore
+                                        Isilah <a href="#"
+                                            class="font-medium text-blue-600 underline dark:text-blue-500 hover:no-underline">
+                                            Kuesioner Evaluasi</a>
+                                        tentang kelas pratikum secara objektif dan jujur ya. Jawaban kalian sangat
+                                        berharga bagi kami untuk kedepannya.
                                     </p>
                                 </div>
                             </div>
@@ -335,14 +389,43 @@
                                 <div class="flex mt-8 md:mx-10">
                                     <span class="border border-blue-500"></span>
 
-                                    <p class="max-w-3xl px-4 text-gray-500 dark:text-gray-300">
-                                        Lorem ipsum dolor sit amet consectetur adipisicing elit. Magni, eum quae.
-                                        Harum
-                                        officiis
-                                        reprehenderit ex quia ducimus minima id provident molestias optio nam vel,
-                                        quidem
-                                        iure
-                                        voluptatem, repellat et ipsa. lore
+                                    <p class="max-w-4xl px-4 text-gray-500 dark:text-gray-300">
+                                        <a href="/profile">
+                                            <button
+                                                class="relative inline-flex items-center justify-center p-0.5 mb-2 mr-2 overflow-hidden text-sm font-medium text-gray-900 rounded-lg group bg-gradient-to-br from-purple-600 to-blue-500 group-hover:from-purple-600 group-hover:to-blue-500 hover:text-white dark:text-white focus:ring-4 focus:outline-none focus:ring-blue-300 dark:focus:ring-blue-800">
+                                                <span
+                                                    class="relative px-5 py-2.5 transition-all ease-in duration-75 bg-white dark:bg-gray-900 rounded-md group-hover:bg-opacity-0">
+                                                    Jaringan Komputer
+                                                </span>
+                                            </button>
+                                        </a>
+                                        <a href="">
+                                            <button
+                                                class="relative inline-flex items-center justify-center p-0.5 mb-2 mr-2 overflow-hidden text-sm font-medium text-gray-900 rounded-lg group bg-gradient-to-br from-cyan-500 to-blue-500 group-hover:from-cyan-500 group-hover:to-blue-500 hover:text-white dark:text-white focus:ring-4 focus:outline-none focus:ring-cyan-200 dark:focus:ring-cyan-800">
+                                                <span
+                                                    class="relative px-5 py-2.5 transition-all ease-in duration-75 bg-white dark:bg-gray-900 rounded-md group-hover:bg-opacity-0">
+                                                    Sistem Operasi
+                                                </span>
+                                            </button>
+                                        </a>
+                                        <a href="">
+                                            <button
+                                                class="relative inline-flex items-center justify-center p-0.5 mb-2 mr-2 overflow-hidden text-sm font-medium text-gray-900 rounded-lg group bg-gradient-to-br from-green-400 to-blue-600 group-hover:from-green-400 group-hover:to-blue-600 hover:text-white dark:text-white focus:ring-4 focus:outline-none focus:ring-green-200 dark:focus:ring-green-800">
+                                                <span
+                                                    class="relative px-5 py-2.5 transition-all ease-in duration-75 bg-white dark:bg-gray-900 rounded-md group-hover:bg-opacity-0">
+                                                    Routing dan Switching
+                                                </span>
+                                            </button>
+                                        </a>
+                                        <a href="">
+                                            <button
+                                                class="relative inline-flex items-center justify-center p-0.5 mb-2 mr-2 overflow-hidden text-sm font-medium text-gray-900 rounded-lg group bg-gradient-to-br from-purple-500 to-pink-500 group-hover:from-purple-500 group-hover:to-pink-500 hover:text-white dark:text-white focus:ring-4 focus:outline-none focus:ring-purple-200 dark:focus:ring-purple-800">
+                                                <span
+                                                    class="relative px-5 py-2.5 transition-all ease-in duration-75 bg-white dark:bg-gray-900 rounded-md group-hover:bg-opacity-0">
+                                                    Desain dan Manajemen Jaringan
+                                                </span>
+                                            </button>
+                                        </a>
                                     </p>
                                 </div>
                             </div>
@@ -351,12 +434,12 @@
                 </div>
                 <div class="hidden opacity-0 transition-opacity duration-150 ease-linear data-[te-tab-active]:block"
                     id="tabs-profile03" role="tabpanel" aria-labelledby="tabs-profile-tab03">
-                    Tab 2 content
+                    {{-- Tab 2 content --}}
                     <div>
                         <div>
                             <button class="flex items-center focus:outline-none" type="button" data-te-collapse-init
-                                data-te-ripple-init data-te-ripple-color="light" data-te-target="#collapse1"
-                                aria-expanded="false" aria-controls="collapse1">
+                                data-te-ripple-init data-te-ripple-color="light" data-te-target="#materi1"
+                                aria-expanded="false" aria-controls="materi1">
                                 <svg class="w-6 h-6" version="1.1" id="Icons"
                                     xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"
                                     viewBox="0 0 32 32" xml:space="preserve" fill="#504e4e" stroke="#504e4e">
@@ -379,19 +462,55 @@
                                 </h1>
                             </button>
 
-                            <div class="!visible hidden" id="collapse1" data-te-collapse-item>
+                            <div class="!visible hidden" id="materi1" data-te-collapse-item>
 
                                 <div class="flex mt-8 md:mx-10">
                                     <span class="border border-blue-500"></span>
 
                                     <p class="max-w-3xl px-4 text-gray-500 dark:text-gray-300">
-                                        Lorem ipsum dolor sit amet consectetur adipisicing elit. Magni, eum quae.
-                                        Harum
-                                        officiis
-                                        reprehenderit ex quia ducimus minima id provident molestias optio nam vel,
-                                        quidem
-                                        iure
-                                        voluptatem, repellat et ipsa.
+
+                                        <a href="#"
+                                            class="inline-flex items-center justify-center p-5 text-base font-medium text-gray-500 rounded-lg bg-gray-50 hover:text-gray-900 hover:bg-gray-100 dark:text-gray-400 dark:bg-gray-800 dark:hover:bg-gray-700 dark:hover:text-white">
+                                            <svg class="w-5 h-5 mr-3" viewBox="0 -3 48 48" version="1.1"
+                                                xmlns="http://www.w3.org/2000/svg"
+                                                xmlns:xlink="http://www.w3.org/1999/xlink" fill="#ffffff">
+                                                <g id="SVGRepo_bgCarrier" stroke-width="0"></g>
+                                                <g id="SVGRepo_tracerCarrier" stroke-linecap="round"
+                                                    stroke-linejoin="round"></g>
+                                                <g id="SVGRepo_iconCarrier">
+                                                    <title>drive-color</title>
+                                                    <desc>Created with Sketch.</desc>
+                                                    <defs> </defs>
+                                                    <g id="Icons" stroke="none" stroke-width="1" fill="none"
+                                                        fill-rule="evenodd">
+                                                        <g id="Color-"
+                                                            transform="translate(-601.000000, -955.000000)">
+                                                            <g id="drive"
+                                                                transform="translate(601.000000, 955.000000)">
+                                                                <polygon id="Shape" fill="#3777E3"
+                                                                    points="8.00048064 42 15.9998798 28 48 28 39.9998798 42">
+                                                                </polygon>
+                                                                <polygon id="Shape" fill="#FFCF63"
+                                                                    points="32.0004806 28 48 28 32.0004806 0 15.9998798 0">
+                                                                </polygon>
+                                                                <polygon id="Shape" fill="#11A861"
+                                                                    points="0 28 8.00048064 42 24 14 15.9998798 0">
+                                                                </polygon>
+                                                            </g>
+                                                        </g>
+                                                    </g>
+                                                </g>
+                                            </svg>
+                                            <span class="w-full">Akses materi</span>
+                                            <svg class="w-4 h-4 ml-2" aria-hidden="true"
+                                                xmlns="http://www.w3.org/2000/svg" fill="none"
+                                                viewBox="0 0 14 10">
+                                                <path stroke="currentColor" stroke-linecap="round"
+                                                    stroke-linejoin="round" stroke-width="2"
+                                                    d="M1 5h12m0 0L9 1m4 4L9 9" />
+                                            </svg>
+                                        </a>
+
                                     </p>
                                 </div>
                             </div>
@@ -401,8 +520,8 @@
 
                         <div>
                             <button class="flex items-center focus:outline-none" type="button" data-te-collapse-init
-                                data-te-ripple-init data-te-ripple-color="light" data-te-target="#collapse2"
-                                aria-expanded="false" aria-controls="collapse2">
+                                data-te-ripple-init data-te-ripple-color="light" data-te-target="#materi2"
+                                aria-expanded="false" aria-controls="materi2">
                                 <svg class="w-6 h-6" version="1.1" id="Icons"
                                     xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"
                                     viewBox="0 0 32 32" xml:space="preserve" fill="#504e4e" stroke="#504e4e">
@@ -425,19 +544,53 @@
                                 </h1>
                             </button>
 
-                            <div class="!visible hidden" id="collapse2" data-te-collapse-item>
+                            <div class="!visible hidden" id="materi2" data-te-collapse-item>
 
                                 <div class="flex mt-8 md:mx-10">
                                     <span class="border border-blue-500"></span>
 
                                     <p class="max-w-3xl px-4 text-gray-500 dark:text-gray-300">
-                                        Lorem ipsum dolor sit amet consectetur adipisicing elit. Magni, eum quae.
-                                        Harum
-                                        officiis
-                                        reprehenderit ex quia ducimus minima id provident molestias optio nam vel,
-                                        quidem
-                                        iure
-                                        voluptatem, repellat et ipsa. lore
+                                        <a href="#"
+                                            class="inline-flex items-center justify-center p-5 text-base font-medium text-gray-500 rounded-lg bg-gray-50 hover:text-gray-900 hover:bg-gray-100 dark:text-gray-400 dark:bg-gray-800 dark:hover:bg-gray-700 dark:hover:text-white">
+                                            <svg class="w-5 h-5 mr-3" viewBox="0 -3 48 48" version="1.1"
+                                                xmlns="http://www.w3.org/2000/svg"
+                                                xmlns:xlink="http://www.w3.org/1999/xlink" fill="#ffffff">
+                                                <g id="SVGRepo_bgCarrier" stroke-width="0"></g>
+                                                <g id="SVGRepo_tracerCarrier" stroke-linecap="round"
+                                                    stroke-linejoin="round"></g>
+                                                <g id="SVGRepo_iconCarrier">
+                                                    <title>drive-color</title>
+                                                    <desc>Created with Sketch.</desc>
+                                                    <defs> </defs>
+                                                    <g id="Icons" stroke="none" stroke-width="1" fill="none"
+                                                        fill-rule="evenodd">
+                                                        <g id="Color-"
+                                                            transform="translate(-601.000000, -955.000000)">
+                                                            <g id="drive"
+                                                                transform="translate(601.000000, 955.000000)">
+                                                                <polygon id="Shape" fill="#3777E3"
+                                                                    points="8.00048064 42 15.9998798 28 48 28 39.9998798 42">
+                                                                </polygon>
+                                                                <polygon id="Shape" fill="#FFCF63"
+                                                                    points="32.0004806 28 48 28 32.0004806 0 15.9998798 0">
+                                                                </polygon>
+                                                                <polygon id="Shape" fill="#11A861"
+                                                                    points="0 28 8.00048064 42 24 14 15.9998798 0">
+                                                                </polygon>
+                                                            </g>
+                                                        </g>
+                                                    </g>
+                                                </g>
+                                            </svg>
+                                            <span class="w-full">Akses materi</span>
+                                            <svg class="w-4 h-4 ml-2" aria-hidden="true"
+                                                xmlns="http://www.w3.org/2000/svg" fill="none"
+                                                viewBox="0 0 14 10">
+                                                <path stroke="currentColor" stroke-linecap="round"
+                                                    stroke-linejoin="round" stroke-width="2"
+                                                    d="M1 5h12m0 0L9 1m4 4L9 9" />
+                                            </svg>
+                                        </a>
                                     </p>
                                 </div>
                             </div>
@@ -447,8 +600,8 @@
 
                         <div>
                             <button class="flex items-center focus:outline-none" type="button" data-te-collapse-init
-                                data-te-ripple-init data-te-ripple-color="light" data-te-target="#collapse3"
-                                aria-expanded="false" aria-controls="collapse3">
+                                data-te-ripple-init data-te-ripple-color="light" data-te-target="#materi3"
+                                aria-expanded="false" aria-controls="materi3">
                                 <svg class="w-6 h-6" version="1.1" id="Icons"
                                     xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"
                                     viewBox="0 0 32 32" xml:space="preserve" fill="#504e4e" stroke="#504e4e">
@@ -471,19 +624,53 @@
                                 </h1>
                             </button>
 
-                            <div class="!visible hidden" id="collapse3" data-te-collapse-item>
+                            <div class="!visible hidden" id="materi3" data-te-collapse-item>
 
                                 <div class="flex mt-8 md:mx-10">
                                     <span class="border border-blue-500"></span>
 
                                     <p class="max-w-3xl px-4 text-gray-500 dark:text-gray-300">
-                                        Lorem ipsum dolor sit amet consectetur adipisicing elit. Magni, eum quae.
-                                        Harum
-                                        officiis
-                                        reprehenderit ex quia ducimus minima id provident molestias optio nam vel,
-                                        quidem
-                                        iure
-                                        voluptatem, repellat et ipsa. lore
+                                        <a href="#"
+                                            class="inline-flex items-center justify-center p-5 text-base font-medium text-gray-500 rounded-lg bg-gray-50 hover:text-gray-900 hover:bg-gray-100 dark:text-gray-400 dark:bg-gray-800 dark:hover:bg-gray-700 dark:hover:text-white">
+                                            <svg class="w-5 h-5 mr-3" viewBox="0 -3 48 48" version="1.1"
+                                                xmlns="http://www.w3.org/2000/svg"
+                                                xmlns:xlink="http://www.w3.org/1999/xlink" fill="#ffffff">
+                                                <g id="SVGRepo_bgCarrier" stroke-width="0"></g>
+                                                <g id="SVGRepo_tracerCarrier" stroke-linecap="round"
+                                                    stroke-linejoin="round"></g>
+                                                <g id="SVGRepo_iconCarrier">
+                                                    <title>drive-color</title>
+                                                    <desc>Created with Sketch.</desc>
+                                                    <defs> </defs>
+                                                    <g id="Icons" stroke="none" stroke-width="1" fill="none"
+                                                        fill-rule="evenodd">
+                                                        <g id="Color-"
+                                                            transform="translate(-601.000000, -955.000000)">
+                                                            <g id="drive"
+                                                                transform="translate(601.000000, 955.000000)">
+                                                                <polygon id="Shape" fill="#3777E3"
+                                                                    points="8.00048064 42 15.9998798 28 48 28 39.9998798 42">
+                                                                </polygon>
+                                                                <polygon id="Shape" fill="#FFCF63"
+                                                                    points="32.0004806 28 48 28 32.0004806 0 15.9998798 0">
+                                                                </polygon>
+                                                                <polygon id="Shape" fill="#11A861"
+                                                                    points="0 28 8.00048064 42 24 14 15.9998798 0">
+                                                                </polygon>
+                                                            </g>
+                                                        </g>
+                                                    </g>
+                                                </g>
+                                            </svg>
+                                            <span class="w-full">Akses materi</span>
+                                            <svg class="w-4 h-4 ml-2" aria-hidden="true"
+                                                xmlns="http://www.w3.org/2000/svg" fill="none"
+                                                viewBox="0 0 14 10">
+                                                <path stroke="currentColor" stroke-linecap="round"
+                                                    stroke-linejoin="round" stroke-width="2"
+                                                    d="M1 5h12m0 0L9 1m4 4L9 9" />
+                                            </svg>
+                                        </a>
                                     </p>
                                 </div>
                             </div>
@@ -493,8 +680,8 @@
 
                         <div>
                             <button class="flex items-center focus:outline-none" type="button" data-te-collapse-init
-                                data-te-ripple-init data-te-ripple-color="light" data-te-target="#collapse4"
-                                aria-expanded="false" aria-controls="collapse4">
+                                data-te-ripple-init data-te-ripple-color="light" data-te-target="#materi4"
+                                aria-expanded="false" aria-controls="materi4">
                                 <svg class="w-6 h-6" version="1.1" id="Icons"
                                     xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"
                                     viewBox="0 0 32 32" xml:space="preserve" fill="#504e4e" stroke="#504e4e">
@@ -517,19 +704,53 @@
                                 </h1>
                             </button>
 
-                            <div class="!visible hidden" id="collapse4" data-te-collapse-item>
+                            <div class="!visible hidden" id="materi4" data-te-collapse-item>
 
                                 <div class="flex mt-8 md:mx-10">
                                     <span class="border border-blue-500"></span>
 
                                     <p class="max-w-3xl px-4 text-gray-500 dark:text-gray-300">
-                                        Lorem ipsum dolor sit amet consectetur adipisicing elit. Magni, eum quae.
-                                        Harum
-                                        officiis
-                                        reprehenderit ex quia ducimus minima id provident molestias optio nam vel,
-                                        quidem
-                                        iure
-                                        voluptatem, repellat et ipsa. lore
+                                        <a href="#"
+                                            class="inline-flex items-center justify-center p-5 text-base font-medium text-gray-500 rounded-lg bg-gray-50 hover:text-gray-900 hover:bg-gray-100 dark:text-gray-400 dark:bg-gray-800 dark:hover:bg-gray-700 dark:hover:text-white">
+                                            <svg class="w-5 h-5 mr-3" viewBox="0 -3 48 48" version="1.1"
+                                                xmlns="http://www.w3.org/2000/svg"
+                                                xmlns:xlink="http://www.w3.org/1999/xlink" fill="#ffffff">
+                                                <g id="SVGRepo_bgCarrier" stroke-width="0"></g>
+                                                <g id="SVGRepo_tracerCarrier" stroke-linecap="round"
+                                                    stroke-linejoin="round"></g>
+                                                <g id="SVGRepo_iconCarrier">
+                                                    <title>drive-color</title>
+                                                    <desc>Created with Sketch.</desc>
+                                                    <defs> </defs>
+                                                    <g id="Icons" stroke="none" stroke-width="1" fill="none"
+                                                        fill-rule="evenodd">
+                                                        <g id="Color-"
+                                                            transform="translate(-601.000000, -955.000000)">
+                                                            <g id="drive"
+                                                                transform="translate(601.000000, 955.000000)">
+                                                                <polygon id="Shape" fill="#3777E3"
+                                                                    points="8.00048064 42 15.9998798 28 48 28 39.9998798 42">
+                                                                </polygon>
+                                                                <polygon id="Shape" fill="#FFCF63"
+                                                                    points="32.0004806 28 48 28 32.0004806 0 15.9998798 0">
+                                                                </polygon>
+                                                                <polygon id="Shape" fill="#11A861"
+                                                                    points="0 28 8.00048064 42 24 14 15.9998798 0">
+                                                                </polygon>
+                                                            </g>
+                                                        </g>
+                                                    </g>
+                                                </g>
+                                            </svg>
+                                            <span class="w-full">Akses materi</span>
+                                            <svg class="w-4 h-4 ml-2" aria-hidden="true"
+                                                xmlns="http://www.w3.org/2000/svg" fill="none"
+                                                viewBox="0 0 14 10">
+                                                <path stroke="currentColor" stroke-linecap="round"
+                                                    stroke-linejoin="round" stroke-width="2"
+                                                    d="M1 5h12m0 0L9 1m4 4L9 9" />
+                                            </svg>
+                                        </a>
                                     </p>
                                 </div>
                             </div>
@@ -572,12 +793,12 @@
                 </div>
                 <div class="hidden opacity-0 transition-opacity duration-150 ease-linear data-[te-tab-active]:block"
                     id="tabs-messages03" role="tabpanel" aria-labelledby="tabs-profile-tab03">
-                    Tab 3 content
+                    {{-- Tab 3 content --}}
                     <div>
                         <div>
                             <button class="flex items-center focus:outline-none" type="button" data-te-collapse-init
-                                data-te-ripple-init data-te-ripple-color="light" data-te-target="#collapse1"
-                                aria-expanded="false" aria-controls="collapse1">
+                                data-te-ripple-init data-te-ripple-color="light" data-te-target="#tugas1"
+                                aria-expanded="false" aria-controls="tugas1">
                                 <svg class="w-6 h-6" fill="#504E4E" viewBox="0 0 1920 1920"
                                     xmlns="http://www.w3.org/2000/svg" stroke="#504E4E">
                                     <g id="SVGRepo_bgCarrier" stroke-width="0"></g>
@@ -594,19 +815,70 @@
                                 </h1>
                             </button>
 
-                            <div class="!visible hidden" id="collapse1" data-te-collapse-item>
+                            <div class="!visible hidden" id="tugas1" data-te-collapse-item>
 
                                 <div class="flex mt-8 md:mx-10">
                                     <span class="border border-blue-500"></span>
 
                                     <p class="max-w-3xl px-4 text-gray-500 dark:text-gray-300">
-                                        Lorem ipsum dolor sit amet consectetur adipisicing elit. Magni, eum quae.
-                                        Harum
-                                        officiis
-                                        reprehenderit ex quia ducimus minima id provident molestias optio nam vel,
-                                        quidem
-                                        iure
-                                        voluptatem, repellat et ipsa.
+                                        <a href="#"
+                                            class="inline-flex items-center justify-center p-5 text-base font-medium text-gray-500 rounded-lg bg-gray-50 hover:text-gray-900 hover:bg-gray-100 dark:text-gray-400 dark:bg-gray-800 dark:hover:bg-gray-700 dark:hover:text-white">
+                                            <svg class="w-5 h-5 mr-3" version="1.1" id="Layer_1"
+                                                xmlns="http://www.w3.org/2000/svg"
+                                                xmlns:xlink="http://www.w3.org/1999/xlink"
+                                                viewBox="0 0 392.575 392.575" xml:space="preserve" fill="#000000">
+                                                <g id="SVGRepo_bgCarrier" stroke-width="0"></g>
+                                                <g id="SVGRepo_tracerCarrier" stroke-linecap="round"
+                                                    stroke-linejoin="round"></g>
+                                                <g id="SVGRepo_iconCarrier">
+                                                    <path style="fill:#FFFFFF;"
+                                                        d="M237.576,330.72h-38.529c-6.012,0-10.925-4.848-10.925-10.925V281.33 c0-2.844,1.164-5.624,3.168-7.758l75.636-75.636V32.829c0-6.012-4.848-10.925-10.925-10.925H84.558v51.782 c0,6.012-4.848,10.925-10.925,10.925H21.851v275.265c0,6.012,4.848,10.925,10.925,10.925h223.418 c6.012,0,10.925-4.848,10.925-10.925V305.96l-21.721,21.592C243.329,329.556,240.549,330.72,237.576,330.72z">
+                                                    </path>
+                                                    <path style="fill:#56ACE0;"
+                                                        d="M73.568,84.611H44.671l-2.715,252.315c-0.065,6.012,4.784,10.99,10.731,11.055l179.782,2.004 c6.012,0.065,10.99-4.784,11.055-10.731l0.065-10.279c-1.745,1.228-3.943,1.875-6.077,1.875h-38.529 c-6.012,0-10.925-4.848-10.925-10.925v-38.529c0-2.844,1.164-5.624,3.168-7.758l53.527-53.527l1.875-164.267 c0.065-6.012-4.784-10.99-10.731-11.055L84.364,43.237V73.75C84.558,79.698,79.58,84.611,73.568,84.611z">
+                                                    </path>
+                                                    <g>
+                                                        <path style="fill:#194F82;"
+                                                            d="M211.846,83.641h-90.634c-6.012,0-10.925-4.848-10.925-10.925c0-6.012,4.848-10.925,10.925-10.925 h90.634c6.012,0,10.925,4.848,10.925,10.925C222.772,78.793,217.923,83.641,211.846,83.641z">
+                                                        </path>
+                                                        <path style="fill:#194F82;"
+                                                            d="M211.846,145.379H76.929c-6.012,0-10.925-4.848-10.925-10.925s4.848-10.925,10.925-10.925h134.982 c6.012,0,10.925,4.848,10.925,10.925C222.772,140.53,217.923,145.379,211.846,145.379z">
+                                                        </path>
+                                                        <path style="fill:#194F82;"
+                                                            d="M211.846,207.116H76.929c-6.012,0-10.925-4.848-10.925-10.925c0-6.077,4.848-10.925,10.925-10.925 h134.982c6.012,0,10.925,4.848,10.925,10.925C222.836,202.267,217.923,207.116,211.846,207.116z">
+                                                        </path>
+                                                        <path style="fill:#194F82;"
+                                                            d="M152.76,268.983h-75.83c-6.012,0-10.925-4.848-10.925-10.925c0-6.012,4.848-10.925,10.925-10.925 h75.83c6.012,0,10.925,4.848,10.925,10.925C163.685,264.134,158.772,268.983,152.76,268.983z">
+                                                        </path>
+                                                        <path style="fill:#194F82;"
+                                                            d="M152.76,330.72h-75.83c-6.012,0-10.925-4.848-10.925-10.925s4.848-10.925,10.925-10.925h75.83 c6.012,0,10.925,4.848,10.925,10.925S158.772,330.72,152.76,330.72z">
+                                                        </path>
+                                                        <path style="fill:#194F82;"
+                                                            d="M384.453,149.968l-15.451-15.451c-11.895-10.731-26.958-10.667-38.529,0L288.84,176.15V32.829 c0-18.036-14.675-32.711-32.711-32.711H82.683c-8.727,0-17.002,3.426-23.208,9.568L9.568,59.593C3.362,65.799,0,73.944,0,82.671 v277.075c0,18.036,14.675,32.711,32.711,32.711h223.418c18.036,0,32.711-14.675,32.711-32.711V284.11l95.612-95.612 C395.572,176.991,394.99,160.183,384.453,149.968z M62.642,37.354V62.76H37.236L62.642,37.354z M267.055,359.811 c0,6.012-4.848,10.925-10.925,10.925H32.711c-6.012,0-10.925-4.848-10.925-10.925v-275.2h51.782 c6.012,0,10.925-4.848,10.925-10.925V21.904h171.636c6.012,0,10.925,4.848,10.925,10.925v165.107l-75.572,75.636 c-2.004,2.004-3.168,4.784-3.168,7.758v38.529c0,6.012,4.848,10.925,10.925,10.925h38.529c2.844,0,5.624-1.164,7.758-3.168 l21.657-21.657L267.055,359.811L267.055,359.811z M233.115,308.934h-23.079v-23.079l106.408-106.473l23.079,23.079L233.115,308.934 z M369.002,173.047l-13.964,13.964l-23.079-23.079l13.964-13.964c2.78-2.263,5.301-2.004,7.758,0l15.386,15.386 C371.006,166.776,371.394,171.108,369.002,173.047z">
+                                                        </path>
+                                                    </g>
+                                                    <g>
+                                                        <polygon style="fill:#FFC10D;"
+                                                            points="62.642,37.354 37.236,62.76 62.642,62.76 ">
+                                                        </polygon>
+                                                        <polygon style="fill:#FFC10D;"
+                                                            points="210.036,285.791 210.036,308.934 233.115,308.934 339.588,202.526 316.444,179.383 ">
+                                                        </polygon>
+                                                    </g>
+                                                    <path style="fill:#FFFFFF;"
+                                                        d="M353.616,149.968c-2.392-2.004-4.978-2.263-7.758,0l-13.964,13.964l23.079,23.079l13.964-13.964 c2.392-1.939,2.004-6.271,0-7.758L353.616,149.968z">
+                                                    </path>
+                                                </g>
+                                            </svg>
+                                            <span class="w-full">Akses tugas</span>
+                                            <svg class="w-4 h-4 ml-2" aria-hidden="true"
+                                                xmlns="http://www.w3.org/2000/svg" fill="none"
+                                                viewBox="0 0 14 10">
+                                                <path stroke="currentColor" stroke-linecap="round"
+                                                    stroke-linejoin="round" stroke-width="2"
+                                                    d="M1 5h12m0 0L9 1m4 4L9 9" />
+                                            </svg>
+                                        </a>
                                     </p>
                                 </div>
                             </div>
@@ -616,8 +888,8 @@
 
                         <div>
                             <button class="flex items-center focus:outline-none" type="button" data-te-collapse-init
-                                data-te-ripple-init data-te-ripple-color="light" data-te-target="#collapse2"
-                                aria-expanded="false" aria-controls="collapse2">
+                                data-te-ripple-init data-te-ripple-color="light" data-te-target="#tugas2"
+                                aria-expanded="false" aria-controls="tugas2">
                                 <svg class="w-6 h-6" fill="#504E4E" viewBox="0 0 1920 1920"
                                     xmlns="http://www.w3.org/2000/svg" stroke="#504E4E">
                                     <g id="SVGRepo_bgCarrier" stroke-width="0"></g>
@@ -634,19 +906,70 @@
                                 </h1>
                             </button>
 
-                            <div class="!visible hidden" id="collapse2" data-te-collapse-item>
+                            <div class="!visible hidden" id="tugas2" data-te-collapse-item>
 
                                 <div class="flex mt-8 md:mx-10">
                                     <span class="border border-blue-500"></span>
 
                                     <p class="max-w-3xl px-4 text-gray-500 dark:text-gray-300">
-                                        Lorem ipsum dolor sit amet consectetur adipisicing elit. Magni, eum quae.
-                                        Harum
-                                        officiis
-                                        reprehenderit ex quia ducimus minima id provident molestias optio nam vel,
-                                        quidem
-                                        iure
-                                        voluptatem, repellat et ipsa. lore
+                                        <a href="#"
+                                            class="inline-flex items-center justify-center p-5 text-base font-medium text-gray-500 rounded-lg bg-gray-50 hover:text-gray-900 hover:bg-gray-100 dark:text-gray-400 dark:bg-gray-800 dark:hover:bg-gray-700 dark:hover:text-white">
+                                            <svg class="w-5 h-5 mr-3" version="1.1" id="Layer_1"
+                                                xmlns="http://www.w3.org/2000/svg"
+                                                xmlns:xlink="http://www.w3.org/1999/xlink"
+                                                viewBox="0 0 392.575 392.575" xml:space="preserve" fill="#000000">
+                                                <g id="SVGRepo_bgCarrier" stroke-width="0"></g>
+                                                <g id="SVGRepo_tracerCarrier" stroke-linecap="round"
+                                                    stroke-linejoin="round"></g>
+                                                <g id="SVGRepo_iconCarrier">
+                                                    <path style="fill:#FFFFFF;"
+                                                        d="M237.576,330.72h-38.529c-6.012,0-10.925-4.848-10.925-10.925V281.33 c0-2.844,1.164-5.624,3.168-7.758l75.636-75.636V32.829c0-6.012-4.848-10.925-10.925-10.925H84.558v51.782 c0,6.012-4.848,10.925-10.925,10.925H21.851v275.265c0,6.012,4.848,10.925,10.925,10.925h223.418 c6.012,0,10.925-4.848,10.925-10.925V305.96l-21.721,21.592C243.329,329.556,240.549,330.72,237.576,330.72z">
+                                                    </path>
+                                                    <path style="fill:#56ACE0;"
+                                                        d="M73.568,84.611H44.671l-2.715,252.315c-0.065,6.012,4.784,10.99,10.731,11.055l179.782,2.004 c6.012,0.065,10.99-4.784,11.055-10.731l0.065-10.279c-1.745,1.228-3.943,1.875-6.077,1.875h-38.529 c-6.012,0-10.925-4.848-10.925-10.925v-38.529c0-2.844,1.164-5.624,3.168-7.758l53.527-53.527l1.875-164.267 c0.065-6.012-4.784-10.99-10.731-11.055L84.364,43.237V73.75C84.558,79.698,79.58,84.611,73.568,84.611z">
+                                                    </path>
+                                                    <g>
+                                                        <path style="fill:#194F82;"
+                                                            d="M211.846,83.641h-90.634c-6.012,0-10.925-4.848-10.925-10.925c0-6.012,4.848-10.925,10.925-10.925 h90.634c6.012,0,10.925,4.848,10.925,10.925C222.772,78.793,217.923,83.641,211.846,83.641z">
+                                                        </path>
+                                                        <path style="fill:#194F82;"
+                                                            d="M211.846,145.379H76.929c-6.012,0-10.925-4.848-10.925-10.925s4.848-10.925,10.925-10.925h134.982 c6.012,0,10.925,4.848,10.925,10.925C222.772,140.53,217.923,145.379,211.846,145.379z">
+                                                        </path>
+                                                        <path style="fill:#194F82;"
+                                                            d="M211.846,207.116H76.929c-6.012,0-10.925-4.848-10.925-10.925c0-6.077,4.848-10.925,10.925-10.925 h134.982c6.012,0,10.925,4.848,10.925,10.925C222.836,202.267,217.923,207.116,211.846,207.116z">
+                                                        </path>
+                                                        <path style="fill:#194F82;"
+                                                            d="M152.76,268.983h-75.83c-6.012,0-10.925-4.848-10.925-10.925c0-6.012,4.848-10.925,10.925-10.925 h75.83c6.012,0,10.925,4.848,10.925,10.925C163.685,264.134,158.772,268.983,152.76,268.983z">
+                                                        </path>
+                                                        <path style="fill:#194F82;"
+                                                            d="M152.76,330.72h-75.83c-6.012,0-10.925-4.848-10.925-10.925s4.848-10.925,10.925-10.925h75.83 c6.012,0,10.925,4.848,10.925,10.925S158.772,330.72,152.76,330.72z">
+                                                        </path>
+                                                        <path style="fill:#194F82;"
+                                                            d="M384.453,149.968l-15.451-15.451c-11.895-10.731-26.958-10.667-38.529,0L288.84,176.15V32.829 c0-18.036-14.675-32.711-32.711-32.711H82.683c-8.727,0-17.002,3.426-23.208,9.568L9.568,59.593C3.362,65.799,0,73.944,0,82.671 v277.075c0,18.036,14.675,32.711,32.711,32.711h223.418c18.036,0,32.711-14.675,32.711-32.711V284.11l95.612-95.612 C395.572,176.991,394.99,160.183,384.453,149.968z M62.642,37.354V62.76H37.236L62.642,37.354z M267.055,359.811 c0,6.012-4.848,10.925-10.925,10.925H32.711c-6.012,0-10.925-4.848-10.925-10.925v-275.2h51.782 c6.012,0,10.925-4.848,10.925-10.925V21.904h171.636c6.012,0,10.925,4.848,10.925,10.925v165.107l-75.572,75.636 c-2.004,2.004-3.168,4.784-3.168,7.758v38.529c0,6.012,4.848,10.925,10.925,10.925h38.529c2.844,0,5.624-1.164,7.758-3.168 l21.657-21.657L267.055,359.811L267.055,359.811z M233.115,308.934h-23.079v-23.079l106.408-106.473l23.079,23.079L233.115,308.934 z M369.002,173.047l-13.964,13.964l-23.079-23.079l13.964-13.964c2.78-2.263,5.301-2.004,7.758,0l15.386,15.386 C371.006,166.776,371.394,171.108,369.002,173.047z">
+                                                        </path>
+                                                    </g>
+                                                    <g>
+                                                        <polygon style="fill:#FFC10D;"
+                                                            points="62.642,37.354 37.236,62.76 62.642,62.76 ">
+                                                        </polygon>
+                                                        <polygon style="fill:#FFC10D;"
+                                                            points="210.036,285.791 210.036,308.934 233.115,308.934 339.588,202.526 316.444,179.383 ">
+                                                        </polygon>
+                                                    </g>
+                                                    <path style="fill:#FFFFFF;"
+                                                        d="M353.616,149.968c-2.392-2.004-4.978-2.263-7.758,0l-13.964,13.964l23.079,23.079l13.964-13.964 c2.392-1.939,2.004-6.271,0-7.758L353.616,149.968z">
+                                                    </path>
+                                                </g>
+                                            </svg>
+                                            <span class="w-full">Akses tugas</span>
+                                            <svg class="w-4 h-4 ml-2" aria-hidden="true"
+                                                xmlns="http://www.w3.org/2000/svg" fill="none"
+                                                viewBox="0 0 14 10">
+                                                <path stroke="currentColor" stroke-linecap="round"
+                                                    stroke-linejoin="round" stroke-width="2"
+                                                    d="M1 5h12m0 0L9 1m4 4L9 9" />
+                                            </svg>
+                                        </a>
                                     </p>
                                 </div>
                             </div>
@@ -656,8 +979,8 @@
 
                         <div>
                             <button class="flex items-center focus:outline-none" type="button" data-te-collapse-init
-                                data-te-ripple-init data-te-ripple-color="light" data-te-target="#collapse3"
-                                aria-expanded="false" aria-controls="collapse3">
+                                data-te-ripple-init data-te-ripple-color="light" data-te-target="#tugas3"
+                                aria-expanded="false" aria-controls="tugas3">
                                 <svg class="w-6 h-6" fill="#504E4E" viewBox="0 0 1920 1920"
                                     xmlns="http://www.w3.org/2000/svg" stroke="#504E4E">
                                     <g id="SVGRepo_bgCarrier" stroke-width="0"></g>
@@ -674,19 +997,70 @@
                                 </h1>
                             </button>
 
-                            <div class="!visible hidden" id="collapse3" data-te-collapse-item>
+                            <div class="!visible hidden" id="tugas3" data-te-collapse-item>
 
                                 <div class="flex mt-8 md:mx-10">
                                     <span class="border border-blue-500"></span>
 
                                     <p class="max-w-3xl px-4 text-gray-500 dark:text-gray-300">
-                                        Lorem ipsum dolor sit amet consectetur adipisicing elit. Magni, eum quae.
-                                        Harum
-                                        officiis
-                                        reprehenderit ex quia ducimus minima id provident molestias optio nam vel,
-                                        quidem
-                                        iure
-                                        voluptatem, repellat et ipsa. lore
+                                        <a href="#"
+                                            class="inline-flex items-center justify-center p-5 text-base font-medium text-gray-500 rounded-lg bg-gray-50 hover:text-gray-900 hover:bg-gray-100 dark:text-gray-400 dark:bg-gray-800 dark:hover:bg-gray-700 dark:hover:text-white">
+                                            <svg class="w-5 h-5 mr-3" version="1.1" id="Layer_1"
+                                                xmlns="http://www.w3.org/2000/svg"
+                                                xmlns:xlink="http://www.w3.org/1999/xlink"
+                                                viewBox="0 0 392.575 392.575" xml:space="preserve" fill="#000000">
+                                                <g id="SVGRepo_bgCarrier" stroke-width="0"></g>
+                                                <g id="SVGRepo_tracerCarrier" stroke-linecap="round"
+                                                    stroke-linejoin="round"></g>
+                                                <g id="SVGRepo_iconCarrier">
+                                                    <path style="fill:#FFFFFF;"
+                                                        d="M237.576,330.72h-38.529c-6.012,0-10.925-4.848-10.925-10.925V281.33 c0-2.844,1.164-5.624,3.168-7.758l75.636-75.636V32.829c0-6.012-4.848-10.925-10.925-10.925H84.558v51.782 c0,6.012-4.848,10.925-10.925,10.925H21.851v275.265c0,6.012,4.848,10.925,10.925,10.925h223.418 c6.012,0,10.925-4.848,10.925-10.925V305.96l-21.721,21.592C243.329,329.556,240.549,330.72,237.576,330.72z">
+                                                    </path>
+                                                    <path style="fill:#56ACE0;"
+                                                        d="M73.568,84.611H44.671l-2.715,252.315c-0.065,6.012,4.784,10.99,10.731,11.055l179.782,2.004 c6.012,0.065,10.99-4.784,11.055-10.731l0.065-10.279c-1.745,1.228-3.943,1.875-6.077,1.875h-38.529 c-6.012,0-10.925-4.848-10.925-10.925v-38.529c0-2.844,1.164-5.624,3.168-7.758l53.527-53.527l1.875-164.267 c0.065-6.012-4.784-10.99-10.731-11.055L84.364,43.237V73.75C84.558,79.698,79.58,84.611,73.568,84.611z">
+                                                    </path>
+                                                    <g>
+                                                        <path style="fill:#194F82;"
+                                                            d="M211.846,83.641h-90.634c-6.012,0-10.925-4.848-10.925-10.925c0-6.012,4.848-10.925,10.925-10.925 h90.634c6.012,0,10.925,4.848,10.925,10.925C222.772,78.793,217.923,83.641,211.846,83.641z">
+                                                        </path>
+                                                        <path style="fill:#194F82;"
+                                                            d="M211.846,145.379H76.929c-6.012,0-10.925-4.848-10.925-10.925s4.848-10.925,10.925-10.925h134.982 c6.012,0,10.925,4.848,10.925,10.925C222.772,140.53,217.923,145.379,211.846,145.379z">
+                                                        </path>
+                                                        <path style="fill:#194F82;"
+                                                            d="M211.846,207.116H76.929c-6.012,0-10.925-4.848-10.925-10.925c0-6.077,4.848-10.925,10.925-10.925 h134.982c6.012,0,10.925,4.848,10.925,10.925C222.836,202.267,217.923,207.116,211.846,207.116z">
+                                                        </path>
+                                                        <path style="fill:#194F82;"
+                                                            d="M152.76,268.983h-75.83c-6.012,0-10.925-4.848-10.925-10.925c0-6.012,4.848-10.925,10.925-10.925 h75.83c6.012,0,10.925,4.848,10.925,10.925C163.685,264.134,158.772,268.983,152.76,268.983z">
+                                                        </path>
+                                                        <path style="fill:#194F82;"
+                                                            d="M152.76,330.72h-75.83c-6.012,0-10.925-4.848-10.925-10.925s4.848-10.925,10.925-10.925h75.83 c6.012,0,10.925,4.848,10.925,10.925S158.772,330.72,152.76,330.72z">
+                                                        </path>
+                                                        <path style="fill:#194F82;"
+                                                            d="M384.453,149.968l-15.451-15.451c-11.895-10.731-26.958-10.667-38.529,0L288.84,176.15V32.829 c0-18.036-14.675-32.711-32.711-32.711H82.683c-8.727,0-17.002,3.426-23.208,9.568L9.568,59.593C3.362,65.799,0,73.944,0,82.671 v277.075c0,18.036,14.675,32.711,32.711,32.711h223.418c18.036,0,32.711-14.675,32.711-32.711V284.11l95.612-95.612 C395.572,176.991,394.99,160.183,384.453,149.968z M62.642,37.354V62.76H37.236L62.642,37.354z M267.055,359.811 c0,6.012-4.848,10.925-10.925,10.925H32.711c-6.012,0-10.925-4.848-10.925-10.925v-275.2h51.782 c6.012,0,10.925-4.848,10.925-10.925V21.904h171.636c6.012,0,10.925,4.848,10.925,10.925v165.107l-75.572,75.636 c-2.004,2.004-3.168,4.784-3.168,7.758v38.529c0,6.012,4.848,10.925,10.925,10.925h38.529c2.844,0,5.624-1.164,7.758-3.168 l21.657-21.657L267.055,359.811L267.055,359.811z M233.115,308.934h-23.079v-23.079l106.408-106.473l23.079,23.079L233.115,308.934 z M369.002,173.047l-13.964,13.964l-23.079-23.079l13.964-13.964c2.78-2.263,5.301-2.004,7.758,0l15.386,15.386 C371.006,166.776,371.394,171.108,369.002,173.047z">
+                                                        </path>
+                                                    </g>
+                                                    <g>
+                                                        <polygon style="fill:#FFC10D;"
+                                                            points="62.642,37.354 37.236,62.76 62.642,62.76 ">
+                                                        </polygon>
+                                                        <polygon style="fill:#FFC10D;"
+                                                            points="210.036,285.791 210.036,308.934 233.115,308.934 339.588,202.526 316.444,179.383 ">
+                                                        </polygon>
+                                                    </g>
+                                                    <path style="fill:#FFFFFF;"
+                                                        d="M353.616,149.968c-2.392-2.004-4.978-2.263-7.758,0l-13.964,13.964l23.079,23.079l13.964-13.964 c2.392-1.939,2.004-6.271,0-7.758L353.616,149.968z">
+                                                    </path>
+                                                </g>
+                                            </svg>
+                                            <span class="w-full">Akses tugas</span>
+                                            <svg class="w-4 h-4 ml-2" aria-hidden="true"
+                                                xmlns="http://www.w3.org/2000/svg" fill="none"
+                                                viewBox="0 0 14 10">
+                                                <path stroke="currentColor" stroke-linecap="round"
+                                                    stroke-linejoin="round" stroke-width="2"
+                                                    d="M1 5h12m0 0L9 1m4 4L9 9" />
+                                            </svg>
+                                        </a>
                                     </p>
                                 </div>
                             </div>
@@ -696,8 +1070,8 @@
 
                         <div>
                             <button class="flex items-center focus:outline-none" type="button" data-te-collapse-init
-                                data-te-ripple-init data-te-ripple-color="light" data-te-target="#collapse4"
-                                aria-expanded="false" aria-controls="collapse4">
+                                data-te-ripple-init data-te-ripple-color="light" data-te-target="#tugas4"
+                                aria-expanded="false" aria-controls="tugas4">
                                 <svg class="w-6 h-6" fill="#504E4E" viewBox="0 0 1920 1920"
                                     xmlns="http://www.w3.org/2000/svg" stroke="#504E4E">
                                     <g id="SVGRepo_bgCarrier" stroke-width="0"></g>
@@ -714,19 +1088,70 @@
                                 </h1>
                             </button>
 
-                            <div class="!visible hidden" id="collapse4" data-te-collapse-item>
+                            <div class="!visible hidden" id="tugas4" data-te-collapse-item>
 
                                 <div class="flex mt-8 md:mx-10">
                                     <span class="border border-blue-500"></span>
 
                                     <p class="max-w-3xl px-4 text-gray-500 dark:text-gray-300">
-                                        Lorem ipsum dolor sit amet consectetur adipisicing elit. Magni, eum quae.
-                                        Harum
-                                        officiis
-                                        reprehenderit ex quia ducimus minima id provident molestias optio nam vel,
-                                        quidem
-                                        iure
-                                        voluptatem, repellat et ipsa. lore
+                                        <a href="#"
+                                            class="inline-flex items-center justify-center p-5 text-base font-medium text-gray-500 rounded-lg bg-gray-50 hover:text-gray-900 hover:bg-gray-100 dark:text-gray-400 dark:bg-gray-800 dark:hover:bg-gray-700 dark:hover:text-white">
+                                            <svg class="w-5 h-5 mr-3" version="1.1" id="Layer_1"
+                                                xmlns="http://www.w3.org/2000/svg"
+                                                xmlns:xlink="http://www.w3.org/1999/xlink"
+                                                viewBox="0 0 392.575 392.575" xml:space="preserve" fill="#000000">
+                                                <g id="SVGRepo_bgCarrier" stroke-width="0"></g>
+                                                <g id="SVGRepo_tracerCarrier" stroke-linecap="round"
+                                                    stroke-linejoin="round"></g>
+                                                <g id="SVGRepo_iconCarrier">
+                                                    <path style="fill:#FFFFFF;"
+                                                        d="M237.576,330.72h-38.529c-6.012,0-10.925-4.848-10.925-10.925V281.33 c0-2.844,1.164-5.624,3.168-7.758l75.636-75.636V32.829c0-6.012-4.848-10.925-10.925-10.925H84.558v51.782 c0,6.012-4.848,10.925-10.925,10.925H21.851v275.265c0,6.012,4.848,10.925,10.925,10.925h223.418 c6.012,0,10.925-4.848,10.925-10.925V305.96l-21.721,21.592C243.329,329.556,240.549,330.72,237.576,330.72z">
+                                                    </path>
+                                                    <path style="fill:#56ACE0;"
+                                                        d="M73.568,84.611H44.671l-2.715,252.315c-0.065,6.012,4.784,10.99,10.731,11.055l179.782,2.004 c6.012,0.065,10.99-4.784,11.055-10.731l0.065-10.279c-1.745,1.228-3.943,1.875-6.077,1.875h-38.529 c-6.012,0-10.925-4.848-10.925-10.925v-38.529c0-2.844,1.164-5.624,3.168-7.758l53.527-53.527l1.875-164.267 c0.065-6.012-4.784-10.99-10.731-11.055L84.364,43.237V73.75C84.558,79.698,79.58,84.611,73.568,84.611z">
+                                                    </path>
+                                                    <g>
+                                                        <path style="fill:#194F82;"
+                                                            d="M211.846,83.641h-90.634c-6.012,0-10.925-4.848-10.925-10.925c0-6.012,4.848-10.925,10.925-10.925 h90.634c6.012,0,10.925,4.848,10.925,10.925C222.772,78.793,217.923,83.641,211.846,83.641z">
+                                                        </path>
+                                                        <path style="fill:#194F82;"
+                                                            d="M211.846,145.379H76.929c-6.012,0-10.925-4.848-10.925-10.925s4.848-10.925,10.925-10.925h134.982 c6.012,0,10.925,4.848,10.925,10.925C222.772,140.53,217.923,145.379,211.846,145.379z">
+                                                        </path>
+                                                        <path style="fill:#194F82;"
+                                                            d="M211.846,207.116H76.929c-6.012,0-10.925-4.848-10.925-10.925c0-6.077,4.848-10.925,10.925-10.925 h134.982c6.012,0,10.925,4.848,10.925,10.925C222.836,202.267,217.923,207.116,211.846,207.116z">
+                                                        </path>
+                                                        <path style="fill:#194F82;"
+                                                            d="M152.76,268.983h-75.83c-6.012,0-10.925-4.848-10.925-10.925c0-6.012,4.848-10.925,10.925-10.925 h75.83c6.012,0,10.925,4.848,10.925,10.925C163.685,264.134,158.772,268.983,152.76,268.983z">
+                                                        </path>
+                                                        <path style="fill:#194F82;"
+                                                            d="M152.76,330.72h-75.83c-6.012,0-10.925-4.848-10.925-10.925s4.848-10.925,10.925-10.925h75.83 c6.012,0,10.925,4.848,10.925,10.925S158.772,330.72,152.76,330.72z">
+                                                        </path>
+                                                        <path style="fill:#194F82;"
+                                                            d="M384.453,149.968l-15.451-15.451c-11.895-10.731-26.958-10.667-38.529,0L288.84,176.15V32.829 c0-18.036-14.675-32.711-32.711-32.711H82.683c-8.727,0-17.002,3.426-23.208,9.568L9.568,59.593C3.362,65.799,0,73.944,0,82.671 v277.075c0,18.036,14.675,32.711,32.711,32.711h223.418c18.036,0,32.711-14.675,32.711-32.711V284.11l95.612-95.612 C395.572,176.991,394.99,160.183,384.453,149.968z M62.642,37.354V62.76H37.236L62.642,37.354z M267.055,359.811 c0,6.012-4.848,10.925-10.925,10.925H32.711c-6.012,0-10.925-4.848-10.925-10.925v-275.2h51.782 c6.012,0,10.925-4.848,10.925-10.925V21.904h171.636c6.012,0,10.925,4.848,10.925,10.925v165.107l-75.572,75.636 c-2.004,2.004-3.168,4.784-3.168,7.758v38.529c0,6.012,4.848,10.925,10.925,10.925h38.529c2.844,0,5.624-1.164,7.758-3.168 l21.657-21.657L267.055,359.811L267.055,359.811z M233.115,308.934h-23.079v-23.079l106.408-106.473l23.079,23.079L233.115,308.934 z M369.002,173.047l-13.964,13.964l-23.079-23.079l13.964-13.964c2.78-2.263,5.301-2.004,7.758,0l15.386,15.386 C371.006,166.776,371.394,171.108,369.002,173.047z">
+                                                        </path>
+                                                    </g>
+                                                    <g>
+                                                        <polygon style="fill:#FFC10D;"
+                                                            points="62.642,37.354 37.236,62.76 62.642,62.76 ">
+                                                        </polygon>
+                                                        <polygon style="fill:#FFC10D;"
+                                                            points="210.036,285.791 210.036,308.934 233.115,308.934 339.588,202.526 316.444,179.383 ">
+                                                        </polygon>
+                                                    </g>
+                                                    <path style="fill:#FFFFFF;"
+                                                        d="M353.616,149.968c-2.392-2.004-4.978-2.263-7.758,0l-13.964,13.964l23.079,23.079l13.964-13.964 c2.392-1.939,2.004-6.271,0-7.758L353.616,149.968z">
+                                                    </path>
+                                                </g>
+                                            </svg>
+                                            <span class="w-full">Akses tugas</span>
+                                            <svg class="w-4 h-4 ml-2" aria-hidden="true"
+                                                xmlns="http://www.w3.org/2000/svg" fill="none"
+                                                viewBox="0 0 14 10">
+                                                <path stroke="currentColor" stroke-linecap="round"
+                                                    stroke-linejoin="round" stroke-width="2"
+                                                    d="M1 5h12m0 0L9 1m4 4L9 9" />
+                                            </svg>
+                                        </a>
                                     </p>
                                 </div>
                             </div>
@@ -769,7 +1194,7 @@
                 </div>
                 <div class="hidden opacity-0 transition-opacity duration-150 ease-linear data-[te-tab-active]:block"
                     id="tabs-contact03" role="tabpanel" aria-labelledby="tabs-contact-tab03">
-                    Tab 4 content
+                    {{-- Tab 4 content --}}
                     <div>
                         <div>
                             <button class="flex items-center focus:outline-none" type="button" data-te-collapse-init
@@ -943,7 +1368,7 @@
                 </div>
                 <div class="hidden opacity-0 transition-opacity duration-150 ease-linear data-[te-tab-active]:block"
                     id="tabs-file03" role="tabpanel" aria-labelledby="tabs-file-tab03">
-                    Tab 5 content
+                    {{-- Tab 5 content --}}
                     <div>
                         <div>
                             <button class="flex items-center focus:outline-none" type="button" data-te-collapse-init
@@ -981,9 +1406,9 @@
                         <hr class="my-8 border-gray-200 dark:border-gray-700">
 
                         <div>
-                            <button class="flex items-center focus:outline-none" type="button" data-te-collapse-init
-                                data-te-ripple-init data-te-ripple-color="light" data-te-target="#collapse2"
-                                aria-expanded="false" aria-controls="collapse2">
+                            <button class="flex items-center focus:outline-none" type="button"
+                                data-te-collapse-init data-te-ripple-init data-te-ripple-color="light"
+                                data-te-target="#collapse2" aria-expanded="false" aria-controls="collapse2">
                                 <svg xmlns="http://www.w3.org/2000/svg" class="flex-shrink-0 w-6 h-6 text-blue-500"
                                     fill="none" viewBox="0 0 24 24" stroke="currentColor">
                                     <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2"
@@ -1016,9 +1441,9 @@
                         <hr class="my-8 border-gray-200 dark:border-gray-700">
 
                         <div>
-                            <button class="flex items-center focus:outline-none" type="button" data-te-collapse-init
-                                data-te-ripple-init data-te-ripple-color="light" data-te-target="#collapse3"
-                                aria-expanded="false" aria-controls="collapse3">
+                            <button class="flex items-center focus:outline-none" type="button"
+                                data-te-collapse-init data-te-ripple-init data-te-ripple-color="light"
+                                data-te-target="#collapse3" aria-expanded="false" aria-controls="collapse3">
                                 <svg xmlns="http://www.w3.org/2000/svg" class="flex-shrink-0 w-6 h-6 text-blue-500"
                                     fill="none" viewBox="0 0 24 24" stroke="currentColor">
                                     <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2"
@@ -1051,9 +1476,9 @@
                         <hr class="my-8 border-gray-200 dark:border-gray-700">
 
                         <div>
-                            <button class="flex items-center focus:outline-none" type="button" data-te-collapse-init
-                                data-te-ripple-init data-te-ripple-color="light" data-te-target="#collapse4"
-                                aria-expanded="false" aria-controls="collapse4">
+                            <button class="flex items-center focus:outline-none" type="button"
+                                data-te-collapse-init data-te-ripple-init data-te-ripple-color="light"
+                                data-te-target="#collapse4" aria-expanded="false" aria-controls="collapse4">
                                 <svg xmlns="http://www.w3.org/2000/svg" class="flex-shrink-0 w-6 h-6 text-blue-500"
                                     fill="none" viewBox="0 0 24 24" stroke="currentColor">
                                     <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2"
