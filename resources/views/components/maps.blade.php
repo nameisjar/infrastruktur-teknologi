@@ -24,16 +24,18 @@
                             </span>
                             <span data-te-stepper-head-text-ref
                                 class="text-neutral-500 after:absolute after:flex after:text-[0.8rem] after:content-[data-content] dark:text-neutral-300">
-                                step1
+                                langkah1
                             </span>
                         </div>
                         <div data-te-stepper-content-ref
                             class="transition-[height, margin-bottom, padding-top, padding-bottom] left-0 overflow-hidden pb-6 pl-[3.75rem] pr-6 duration-300 ease-in-out">
-                            Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
-                            eiusmod tempor incididunt ut labore et dolore magna aliqua.Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
-                            eiusmod tempor incididunt ut labore et dolore magna aliqua.Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
-                            eiusmod tempor incididunt ut labore et dolore magna aliqua.Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
-                            eiusmod tempor incididunt ut labore et dolore magna aliqua.
+                            <figure class="max-w-lg">
+                                <img class="mx-auto max-h-80 max-w-full rounded-lg" src="images/step1.jpg"
+                                    alt="image description">
+                                <figcaption class="mt-2 text-sm text-center text-gray-500 dark:text-gray-400">
+                                    Masuk ke depan halaman perpustakaan
+                                </figcaption>
+                            </figure>
                         </div>
                     </li>
 
@@ -48,13 +50,18 @@
                             </span>
                             <span data-te-stepper-head-text-ref
                                 class="text-neutral-500 after:absolute after:flex after:text-[0.8rem] after:content-[data-content] dark:text-neutral-300">
-                                step2
+                                langkah2
                             </span>
                         </div>
                         <div data-te-stepper-content-ref
                             class="transition-[height, margin-bottom, padding-top, padding-bottom] left-0 overflow-hidden pb-6 pl-[3.75rem] pr-6 duration-300 ease-in-out">
-                            Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris
-                            nisi ut aliquip ex ea commodo consequat.
+                            <figure class="max-w-lg">
+                                <img class="mx-auto max-h-80 max-w-full rounded-lg" src="images/step2.jpg"
+                                    alt="image description">
+                                <figcaption class="mt-2 text-sm text-center text-gray-500 dark:text-gray-400">
+                                    Arah ke kanan menuju tangga
+                                </figcaption>
+                            </figure>
                         </div>
                     </li>
 
@@ -68,13 +75,90 @@
                             </span>
                             <span data-te-stepper-head-text-ref
                                 class="text-neutral-500 after:absolute after:flex after:text-[0.8rem] after:content-[data-content] dark:text-neutral-300">
-                                step3
+                                langkah3
                             </span>
                         </div>
                         <div data-te-stepper-content-ref
                             class="transition-[height, margin-bottom, padding-top, padding-bottom] left-0 overflow-hidden pb-6 pl-[3.75rem] pr-6 duration-300 ease-in-out">
-                            Duis aute irure dolor in reprehenderit in voluptate velit esse
-                            cillum dolore eu fugiat nulla pariatur.
+                            <figure class="max-w-lg">
+                                <img class="mx-auto max-h-80 max-w-full rounded-lg" src="images/step3.jpg"
+                                    alt="image description">
+                                <figcaption class="mt-2 text-sm text-center text-gray-500 dark:text-gray-400">
+                                    Naik ke lantai 2
+                                </figcaption>
+                            </figure>
+                        </div>
+                    </li>
+                    <!--Fourth item-->
+                    <li data-te-stepper-step-ref class="relative h-fit">
+                        <div data-te-stepper-head-ref
+                            class="flex cursor-pointer items-center p-6 leading-[1.3rem] no-underline after:bg-[#e0e0e0] after:content-[''] hover:bg-[#f9f9f9] focus:outline-none dark:after:bg-neutral-600 dark:hover:bg-[#3b3b3b]">
+                            <span data-te-stepper-head-icon-ref
+                                class="mr-3 flex h-[1.938rem] w-[1.938rem] items-center justify-center rounded-full bg-[#ebedef] text-sm font-medium text-[#40464f]">
+                                4
+                            </span>
+                            <span data-te-stepper-head-text-ref
+                                class="text-neutral-500 after:absolute after:flex after:text-[0.8rem] after:content-[data-content] dark:text-neutral-300">
+                                langkah4
+                            </span>
+                        </div>
+                        <div data-te-stepper-content-ref
+                            class="transition-[height, margin-bottom, padding-top, padding-bottom] left-0 overflow-hidden pb-6 pl-[3.75rem] pr-6 duration-300 ease-in-out">
+                            <figure class="max-w-lg">
+                                <img class="mx-auto max-h-80 max-w-full rounded-lg" src="images/step4.jpg"
+                                    alt="image description">
+                                <figcaption class="mt-2 text-sm text-center text-gray-500 dark:text-gray-400">
+                                    Belok ke kiri sampai ujung
+                                </figcaption>
+                            </figure>
+                        </div>
+                    </li>
+                    <!--Fifth item-->
+                    <li data-te-stepper-step-ref class="relative h-fit">
+                        <div data-te-stepper-head-ref
+                            class="flex cursor-pointer items-center p-6 leading-[1.3rem] no-underline after:bg-[#e0e0e0] after:content-[''] hover:bg-[#f9f9f9] focus:outline-none dark:after:bg-neutral-600 dark:hover:bg-[#3b3b3b]">
+                            <span data-te-stepper-head-icon-ref
+                                class="mr-3 flex h-[1.938rem] w-[1.938rem] items-center justify-center rounded-full bg-[#ebedef] text-sm font-medium text-[#40464f]">
+                                5
+                            </span>
+                            <span data-te-stepper-head-text-ref
+                                class="text-neutral-500 after:absolute after:flex after:text-[0.8rem] after:content-[data-content] dark:text-neutral-300">
+                                langkah5
+                            </span>
+                        </div>
+                        <div data-te-stepper-content-ref
+                            class="transition-[height, margin-bottom, padding-top, padding-bottom] left-0 overflow-hidden pb-6 pl-[3.75rem] pr-6 duration-300 ease-in-out">
+                            <figure class="max-w-lg">
+                                <img class="mx-auto max-h-80 max-w-full rounded-lg" src="images/step5.jpg"
+                                    alt="image description">
+                                <figcaption class="mt-2 text-sm text-center text-gray-500 dark:text-gray-400">
+                                    Belok ke kiri dan lab infratek berada di sebelah kanan
+                                </figcaption>
+                            </figure>
+                        </div>
+                    </li>
+                    <!--Sixth item-->
+                    <li data-te-stepper-step-ref class="relative h-fit">
+                        <div data-te-stepper-head-ref
+                            class="flex cursor-pointer items-center p-6 leading-[1.3rem] no-underline after:bg-[#e0e0e0] after:content-[''] hover:bg-[#f9f9f9] focus:outline-none dark:after:bg-neutral-600 dark:hover:bg-[#3b3b3b]">
+                            <span data-te-stepper-head-icon-ref
+                                class="mr-3 flex h-[1.938rem] w-[1.938rem] items-center justify-center rounded-full bg-[#ebedef] text-sm font-medium text-[#40464f]">
+                                6
+                            </span>
+                            <span data-te-stepper-head-text-ref
+                                class="text-neutral-500 after:absolute after:flex after:text-[0.8rem] after:content-[data-content] dark:text-neutral-300">
+                                langkah6
+                            </span>
+                        </div>
+                        <div data-te-stepper-content-ref
+                            class="transition-[height, margin-bottom, padding-top, padding-bottom] left-0 overflow-hidden pb-6 pl-[3.75rem] pr-6 duration-300 ease-in-out">
+                            <figure class="max-w-lg">
+                                <img class="mx-auto max-h-80 max-w-full rounded-lg" src="images/step6.jpg"
+                                    alt="image description">
+                                <figcaption class="mt-2 text-sm text-center text-gray-500 dark:text-gray-400">
+                                    Laboratorium berada tepat di depan kantin barokah
+                                </figcaption>
+                            </figure>
                         </div>
                     </li>
                 </ul>
